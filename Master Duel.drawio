@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T14:58:28.312Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="3HOFOwaSPXB066hZwM5B" version="20.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-27T15:18:42.427Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="cRTPNWWJs_u3_BHSo2O4" version="20.0.3" type="github" pages="2">
   <diagram id="QhzCPen-d7Ydq9bi7PbF" name="Nebula Cyclone">
-    <mxGraphModel dx="2241" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3214" dy="1484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -144,7 +144,7 @@
         <mxCell id="l2UShrBRBGjynPekhrLH-64" value="Photon Chargeman" style="whiteSpace=wrap;html=1;" parent="l2UShrBRBGjynPekhrLH-47" vertex="1">
           <mxGeometry x="45" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l2UShrBRBGjynPekhrLH-53" value="Photon Orbital" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="l2UShrBRBGjynPekhrLH-72" vertex="1">
+        <mxCell id="l2UShrBRBGjynPekhrLH-53" value="Photon Orbital" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="l2UShrBRBGjynPekhrLH-72" vertex="1">
           <mxGeometry x="450" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l2UShrBRBGjynPekhrLH-54" value="Searches" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;verticalAlign=bottom;" parent="l2UShrBRBGjynPekhrLH-72" source="l2UShrBRBGjynPekhrLH-53" target="l2UShrBRBGjynPekhrLH-47" edge="1">
@@ -960,6 +960,51 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="180" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AALq3jc9OuOO3K2FROXc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AALq3jc9OuOO3K2FROXc-1" target="AALq3jc9OuOO3K2FROXc-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AALq3jc9OuOO3K2FROXc-1" value="Reborn" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="2335" width="160" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="AALq3jc9OuOO3K2FROXc-3" value="Monster Reborn" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="AALq3jc9OuOO3K2FROXc-1">
+          <mxGeometry x="16.5" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AALq3jc9OuOO3K2FROXc-4" value="Call of the Haunted" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="AALq3jc9OuOO3K2FROXc-1">
+          <mxGeometry x="16.5" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AALq3jc9OuOO3K2FROXc-5" value="Back to the Front" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="AALq3jc9OuOO3K2FROXc-1">
+          <mxGeometry x="16.5" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AALq3jc9OuOO3K2FROXc-10" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="AALq3jc9OuOO3K2FROXc-14" target="l2UShrBRBGjynPekhrLH-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="1970" as="sourcePoint" />
+            <mxPoint x="70" y="1920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AALq3jc9OuOO3K2FROXc-11" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="AALq3jc9OuOO3K2FROXc-14" target="l2UShrBRBGjynPekhrLH-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="1970" as="sourcePoint" />
+            <mxPoint x="70" y="1920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AALq3jc9OuOO3K2FROXc-13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="AALq3jc9OuOO3K2FROXc-14" target="UR9S5s7uBedvsv_nVr1A-97">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="1500" as="sourcePoint" />
+            <mxPoint x="70" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AALq3jc9OuOO3K2FROXc-14" value="Searchers" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="2310" width="250" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="AALq3jc9OuOO3K2FROXc-8" value="Photon Orbital" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="AALq3jc9OuOO3K2FROXc-14">
+          <mxGeometry x="105" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AALq3jc9OuOO3K2FROXc-9" value="Photon Lizard" style="whiteSpace=wrap;html=1;" vertex="1" parent="AALq3jc9OuOO3K2FROXc-14">
+          <mxGeometry x="25" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AALq3jc9OuOO3K2FROXc-12" value="Galaxy Wizard" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="AALq3jc9OuOO3K2FROXc-14">
+          <mxGeometry x="25" y="50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
