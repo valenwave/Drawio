@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T12:54:22.394Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="SoQrnplDVo5JAsm5BIBx" version="20.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-27T14:58:28.312Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="3HOFOwaSPXB066hZwM5B" version="20.0.3" type="github" pages="2">
   <diagram id="QhzCPen-d7Ydq9bi7PbF" name="Nebula Cyclone">
     <mxGraphModel dx="2241" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -878,12 +878,6 @@
             <mxPoint x="1960" y="1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pbqGAoasbMIYGQjwKCvz-155" value="Photon Sanctuary" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="340" y="2800" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pbqGAoasbMIYGQjwKCvz-156" value="Light Link 2" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="580" y="2780" width="200" height="200" as="geometry" />
-        </mxCell>
         <mxCell id="pbqGAoasbMIYGQjwKCvz-163" value="Number 39: Utopia" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
           <mxGeometry x="2180" y="1780" width="120" height="60" as="geometry" />
         </mxCell>
@@ -930,22 +924,91 @@
             <mxPoint x="3530" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KKlt5jRwDrd-Zws-TjWI-3" value="Photon Sanctuary Link Engine" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="300" y="2790" width="730" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-155" value="Photon Sanctuary" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="KKlt5jRwDrd-Zws-TjWI-3" vertex="1">
+          <mxGeometry x="20" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XtgaCVv4FPX67PUgLsF--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="KKlt5jRwDrd-Zws-TjWI-3" target="XtgaCVv4FPX67PUgLsF--4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XtgaCVv4FPX67PUgLsF--1" value="Galaxy-Eyes Solflare Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="KKlt5jRwDrd-Zws-TjWI-3">
+          <mxGeometry x="210" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XtgaCVv4FPX67PUgLsF--4" value="Photon Sanctuary" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="KKlt5jRwDrd-Zws-TjWI-3">
+          <mxGeometry x="390" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XtgaCVv4FPX67PUgLsF--6" value="Light Link 4" style="swimlane;" vertex="1" parent="KKlt5jRwDrd-Zws-TjWI-3">
+          <mxGeometry x="550" y="50" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XtgaCVv4FPX67PUgLsF--8" value="Firewall Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="XtgaCVv4FPX67PUgLsF--6">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XtgaCVv4FPX67PUgLsF--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="KKlt5jRwDrd-Zws-TjWI-3" source="XtgaCVv4FPX67PUgLsF--4" target="XtgaCVv4FPX67PUgLsF--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-156" value="Light Link 2" style="swimlane;" parent="KKlt5jRwDrd-Zws-TjWI-3" vertex="1">
+          <mxGeometry x="190" y="50" width="160" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="KKlt5jRwDrd-Zws-TjWI-2" value="Hip Hoshiningen" style="whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="pbqGAoasbMIYGQjwKCvz-156">
+          <mxGeometry x="21.5" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XtgaCVv4FPX67PUgLsF--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="KKlt5jRwDrd-Zws-TjWI-3" source="pbqGAoasbMIYGQjwKCvz-155" target="pbqGAoasbMIYGQjwKCvz-156">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="Pd3pRL6NefnHn6a3GuWg" name="Counterswing Mages">
-    <mxGraphModel dx="1126" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="815" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GcTofnwLk3OoYtkIxA4b-1" value="Performapal Rainbow-Five Magician" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="qBSK3UWD6PkrROFdpDBm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qBSK3UWD6PkrROFdpDBm-1" target="GcTofnwLk3OoYtkIxA4b-1">
+        <mxCell id="qBSK3UWD6PkrROFdpDBm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qBSK3UWD6PkrROFdpDBm-1" target="GcTofnwLk3OoYtkIxA4b-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qBSK3UWD6PkrROFdpDBm-1" value="Odd-Eyes Pendulum Dragon" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="qBSK3UWD6PkrROFdpDBm-1" value="Odd-Eyes Pendulum Dragon" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hStfpSTzaAg3EIRPrIOO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hStfpSTzaAg3EIRPrIOO-1" target="qBSK3UWD6PkrROFdpDBm-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hStfpSTzaAg3EIRPrIOO-1" value="Gold Sarcophagus" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hStfpSTzaAg3EIRPrIOO-3" value="1500 ATK or less Pendulum Monster" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="380" y="40" width="280" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="GcTofnwLk3OoYtkIxA4b-1" value="Performapal Rainbow-Five Magician" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="hStfpSTzaAg3EIRPrIOO-3" vertex="1">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XI0u67MHtKLonao1yJj0-1" value="Mekk-Knight Crusadia Avramax" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="410" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XI0u67MHtKLonao1yJj0-2" value="Crusadia Equimax" style="whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="410" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_adxTWOGrYfBKTxN3G0j-2" value="Photon Sanctuary" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="100" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_adxTWOGrYfBKTxN3G0j-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_adxTWOGrYfBKTxN3G0j-2" target="_adxTWOGrYfBKTxN3G0j-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_adxTWOGrYfBKTxN3G0j-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_adxTWOGrYfBKTxN3G0j-5" target="XI0u67MHtKLonao1yJj0-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_adxTWOGrYfBKTxN3G0j-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_adxTWOGrYfBKTxN3G0j-5" target="XI0u67MHtKLonao1yJj0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_adxTWOGrYfBKTxN3G0j-5" value="LANphorhynchus" style="whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="250" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
