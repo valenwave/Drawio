@@ -1,1 +1,953 @@
-<mxfile host="app.diagrams.net" modified="2022-06-24T21:11:45.424Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="PoI75fOa-k3K5P0Yq_H4" version="20.0.3" type="device"><diagram id="QhzCPen-d7Ydq9bi7PbF" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-27T12:54:22.394Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="SoQrnplDVo5JAsm5BIBx" version="20.0.3" type="github" pages="2">
+  <diagram id="QhzCPen-d7Ydq9bi7PbF" name="Nebula Cyclone">
+    <mxGraphModel dx="2241" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zTiNMLr9CzoUcScXoijD-61" value="Blue-Eyes White Dragon" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="1690" width="790" height="360" as="geometry">
+            <mxRectangle x="1680" y="1710" width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zTiNMLr9CzoUcScXoijD-45" value="Blue-Eyes White Dragon" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="zTiNMLr9CzoUcScXoijD-61" vertex="1">
+          <mxGeometry x="640" y="280" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shape=link;" parent="zTiNMLr9CzoUcScXoijD-61" source="zTiNMLr9CzoUcScXoijD-53" target="zTiNMLr9CzoUcScXoijD-45" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zTiNMLr9CzoUcScXoijD-53" value="Alternative Blue-Eyes White Dragon" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="zTiNMLr9CzoUcScXoijD-61" vertex="1">
+          <mxGeometry x="20" y="160" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-18" value="End Phase Special Summon" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;verticalAlign=bottom;" parent="zTiNMLr9CzoUcScXoijD-61" source="zTiNMLr9CzoUcScXoijD-35" target="zTiNMLr9CzoUcScXoijD-45" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="115" />
+              <mxPoint x="270" y="160" />
+              <mxPoint x="592" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zTiNMLr9CzoUcScXoijD-35" value="The White Stone of Ancients" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="zTiNMLr9CzoUcScXoijD-61" vertex="1">
+          <mxGeometry x="210" y="70" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zTiNMLr9CzoUcScXoijD-64" value="Discard" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;verticalAlign=bottom;" parent="zTiNMLr9CzoUcScXoijD-61" source="zTiNMLr9CzoUcScXoijD-63" target="zTiNMLr9CzoUcScXoijD-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zTiNMLr9CzoUcScXoijD-63" value="Cards of Consonance" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="zTiNMLr9CzoUcScXoijD-61" vertex="1">
+          <mxGeometry x="30" y="70" width="103" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q-s-1RZWSuP9mchZYQhX-3" value="Triggers on Attack.&lt;br&gt;Triggers on Target" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=bottom;" parent="zTiNMLr9CzoUcScXoijD-61" source="zTiNMLr9CzoUcScXoijD-62" target="zTiNMLr9CzoUcScXoijD-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zTiNMLr9CzoUcScXoijD-62" value="Maiden with Eyes of Blue" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="zTiNMLr9CzoUcScXoijD-61" vertex="1">
+          <mxGeometry x="20" y="280" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-158" value="Dragon Spirit of White" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="zTiNMLr9CzoUcScXoijD-61" vertex="1">
+          <mxGeometry x="580" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zTiNMLr9CzoUcScXoijD-40" value="End Phase Special Summon" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;verticalAlign=bottom;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="zTiNMLr9CzoUcScXoijD-61" source="zTiNMLr9CzoUcScXoijD-35" target="pbqGAoasbMIYGQjwKCvz-158" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-161" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;strokeWidth=1;" parent="zTiNMLr9CzoUcScXoijD-61" source="pbqGAoasbMIYGQjwKCvz-158" target="zTiNMLr9CzoUcScXoijD-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-2" value="Queue" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=bottom;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="l2UShrBRBGjynPekhrLH-1" target="zTiNMLr9CzoUcScXoijD-1" edge="1">
+          <mxGeometry x="-0.2867" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="50" />
+              <mxPoint x="130" y="145" />
+            </Array>
+            <mxPoint x="-1" as="offset" />
+            <mxPoint x="260" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-1" value="Gold Sarcophagus" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-830" y="20" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-22" value="Tribute Special Summon" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=bottom;" parent="1" source="l2UShrBRBGjynPekhrLH-20" target="l2UShrBRBGjynPekhrLH-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-20" value="Performapal Kuribohble" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="2360" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-21" value="Performpal Sleight of Hand Magician" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="2615" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-136" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;strokeWidth=1;" parent="1" source="l2UShrBRBGjynPekhrLH-40" target="l2UShrBRBGjynPekhrLH-76" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="1680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-40" value="Photon Archetype" style="swimlane;startSize=23;fillColor=#FFFFFF;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-810" y="1250" width="1130" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-36" value="Starliege Photon Blast Dragon" style="whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="l2UShrBRBGjynPekhrLH-40" vertex="1">
+          <mxGeometry x="420" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-38" value="Galaxy-Eyes Photon Dragon" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="l2UShrBRBGjynPekhrLH-40" vertex="1">
+          <mxGeometry x="880" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-39" value="Summon Effect" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=bottom;" parent="l2UShrBRBGjynPekhrLH-40" source="l2UShrBRBGjynPekhrLH-36" target="l2UShrBRBGjynPekhrLH-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-50" value="Searches" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=bottom;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="l2UShrBRBGjynPekhrLH-40" source="l2UShrBRBGjynPekhrLH-45" target="l2UShrBRBGjynPekhrLH-72" edge="1">
+          <mxGeometry x="-0.6136" relative="1" as="geometry">
+            <mxPoint x="230" y="120" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-45" value="Photon Lizard" style="whiteSpace=wrap;html=1;" parent="l2UShrBRBGjynPekhrLH-40" vertex="1">
+          <mxGeometry x="17.5" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=bottom;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="l2UShrBRBGjynPekhrLH-40" source="l2UShrBRBGjynPekhrLH-47" target="l2UShrBRBGjynPekhrLH-36" edge="1">
+          <mxGeometry x="0.6166" relative="1" as="geometry">
+            <mxPoint x="210" y="200" as="sourcePoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="20" y="350" />
+              <mxPoint x="20" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-66" value="Twin Photon Lizard" style="whiteSpace=wrap;html=1;" parent="l2UShrBRBGjynPekhrLH-40" vertex="1">
+          <mxGeometry x="880" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-72" value="Level 4 or Lower Photon Monster" style="swimlane;strokeColor=#000000;fillColor=#FFFFFF;" parent="l2UShrBRBGjynPekhrLH-40" vertex="1">
+          <mxGeometry x="210" y="50" width="620" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-47" value="Photon Warriors" style="swimlane;" parent="l2UShrBRBGjynPekhrLH-72" vertex="1">
+          <mxGeometry x="30" y="40" width="210" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-59" value="Photon Crusher" style="whiteSpace=wrap;html=1;" parent="l2UShrBRBGjynPekhrLH-47" vertex="1">
+          <mxGeometry x="45" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-60" value="Special Summon" style="swimlane;" parent="l2UShrBRBGjynPekhrLH-47" vertex="1">
+          <mxGeometry x="20" y="40" width="170" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-26" value="Photon Vanisher" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="l2UShrBRBGjynPekhrLH-60" vertex="1">
+          <mxGeometry x="25" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-44" value="Photon Advancer" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="l2UShrBRBGjynPekhrLH-60" vertex="1">
+          <mxGeometry x="23.5" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-4" value="Photon Thrasher" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="l2UShrBRBGjynPekhrLH-60" vertex="1">
+          <mxGeometry x="23.5" y="40" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-64" value="Photon Chargeman" style="whiteSpace=wrap;html=1;" parent="l2UShrBRBGjynPekhrLH-47" vertex="1">
+          <mxGeometry x="45" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-53" value="Photon Orbital" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="l2UShrBRBGjynPekhrLH-72" vertex="1">
+          <mxGeometry x="450" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-54" value="Searches" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;verticalAlign=bottom;" parent="l2UShrBRBGjynPekhrLH-72" source="l2UShrBRBGjynPekhrLH-53" target="l2UShrBRBGjynPekhrLH-47" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-55" value="+" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="l2UShrBRBGjynPekhrLH-72" source="l2UShrBRBGjynPekhrLH-47" target="l2UShrBRBGjynPekhrLH-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-65" value="Photon Circle" style="whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="l2UShrBRBGjynPekhrLH-72" vertex="1">
+          <mxGeometry x="480" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-67" value="Photon Satellite" style="whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="l2UShrBRBGjynPekhrLH-72" vertex="1">
+          <mxGeometry x="480" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-1" value="Kuriphoton" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="l2UShrBRBGjynPekhrLH-72" vertex="1">
+          <mxGeometry x="330" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-2" value="Photon Lead" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="l2UShrBRBGjynPekhrLH-72" vertex="1">
+          <mxGeometry x="330" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-20" value="Photon Cerberus" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="l2UShrBRBGjynPekhrLH-72" vertex="1">
+          <mxGeometry x="210" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-123" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;strokeWidth=1;" parent="l2UShrBRBGjynPekhrLH-40" source="adbf0gxOKINehE4KzGT6-16" target="pbqGAoasbMIYGQjwKCvz-120" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adbf0gxOKINehE4KzGT6-16" value="Photon Sanctuary" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="l2UShrBRBGjynPekhrLH-40" vertex="1">
+          <mxGeometry x="900" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-82" value="Galaxy-Eyes Full Armor Photon Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="l2UShrBRBGjynPekhrLH-40" vertex="1">
+          <mxGeometry x="640" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-86" value="Neo Galaxy-Eyes Photon Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="l2UShrBRBGjynPekhrLH-40" vertex="1">
+          <mxGeometry x="500" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-115" value="Number 90: Galaxy-Eyes Photon Lord" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="l2UShrBRBGjynPekhrLH-40" vertex="1">
+          <mxGeometry x="360" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-120" value="Light Tribute 2" style="swimlane;" parent="l2UShrBRBGjynPekhrLH-40" vertex="1">
+          <mxGeometry x="890" y="230" width="160" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-124" value="Galaxy-Eyes Photon Dragon" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pbqGAoasbMIYGQjwKCvz-120" vertex="1">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-57" value="Photon Wyvern" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pbqGAoasbMIYGQjwKCvz-120" vertex="1">
+          <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="l2UShrBRBGjynPekhrLH-40" source="l2UShrBRBGjynPekhrLH-60" target="pbqGAoasbMIYGQjwKCvz-120" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adbf0gxOKINehE4KzGT6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="l2UShrBRBGjynPekhrLH-40" source="l2UShrBRBGjynPekhrLH-66" target="pbqGAoasbMIYGQjwKCvz-120" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-56" value="Cipher Archetype" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="170" y="20" width="1450" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-17" value="Cipher Twin Rapter Engine" style="swimlane;" parent="l2UShrBRBGjynPekhrLH-56" vertex="1">
+          <mxGeometry x="140" y="40" width="1280" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-12" value="Trigger Effect: Discard &amp;lt;Generic&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;verticalAlign=bottom;" parent="l2UShrBRBGjynPekhrLH-17" source="zTiNMLr9CzoUcScXoijD-1" target="UR9S5s7uBedvsv_nVr1A-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="255.5" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="100" />
+              <mxPoint x="180" y="93" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zTiNMLr9CzoUcScXoijD-1" value="Cipher Twin Rapter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="l2UShrBRBGjynPekhrLH-17" vertex="1">
+          <mxGeometry x="20" y="70" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-3" value="Cipher Twin Rapter Search" style="swimlane;" parent="l2UShrBRBGjynPekhrLH-17" vertex="1">
+          <mxGeometry x="500" y="40" width="194.5" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="zTiNMLr9CzoUcScXoijD-3" value="Cipher Biplane" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="UR9S5s7uBedvsv_nVr1A-3" vertex="1">
+          <mxGeometry x="40" y="40" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-30" value="Cipher Mirror Knight" style="whiteSpace=wrap;html=1;" parent="UR9S5s7uBedvsv_nVr1A-3" vertex="1">
+          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-95" value="Cipher Dragon" style="swimlane;" parent="l2UShrBRBGjynPekhrLH-17" vertex="1">
+          <mxGeometry x="790" y="50" width="453" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-96" value="Neo Galaxy-Eyes Cipher Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="pbqGAoasbMIYGQjwKCvz-95" vertex="1">
+          <mxGeometry x="300" y="30" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-97" value="Galaxy-Eyes Cipher X Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="pbqGAoasbMIYGQjwKCvz-95" vertex="1">
+          <mxGeometry x="300" y="120" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-98" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="pbqGAoasbMIYGQjwKCvz-95" source="pbqGAoasbMIYGQjwKCvz-97" target="pbqGAoasbMIYGQjwKCvz-96" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="421.50000000000045" y="120" as="sourcePoint" />
+            <mxPoint x="421.50000000000045" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="pbqGAoasbMIYGQjwKCvz-95" target="pbqGAoasbMIYGQjwKCvz-96" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="60" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-100" value="Galaxy-Eyes Cipher Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="pbqGAoasbMIYGQjwKCvz-95" vertex="1">
+          <mxGeometry x="30" y="30" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.029;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;entryPerimeter=0;" parent="pbqGAoasbMIYGQjwKCvz-95" source="pbqGAoasbMIYGQjwKCvz-100" target="pbqGAoasbMIYGQjwKCvz-106" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="165" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-102" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="pbqGAoasbMIYGQjwKCvz-95" source="pbqGAoasbMIYGQjwKCvz-97" target="pbqGAoasbMIYGQjwKCvz-100" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="205" y="130" as="sourcePoint" />
+            <mxPoint x="255" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-103" value="Steal 1 Monster" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pbqGAoasbMIYGQjwKCvz-102" vertex="1" connectable="0">
+          <mxGeometry x="-0.1898" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-104" value="Galaxy-Eyes Cipher Blade Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="pbqGAoasbMIYGQjwKCvz-95" vertex="1">
+          <mxGeometry x="30" y="120" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-105" value="Post Attack Phase" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;" parent="pbqGAoasbMIYGQjwKCvz-95" source="pbqGAoasbMIYGQjwKCvz-100" target="pbqGAoasbMIYGQjwKCvz-104" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-106" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Rank-Up-Magic Cipher Ascension&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="pbqGAoasbMIYGQjwKCvz-95" vertex="1">
+          <mxGeometry x="166.5" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-89" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;strokeWidth=1;" parent="l2UShrBRBGjynPekhrLH-17" source="zTiNMLr9CzoUcScXoijD-3" target="pbqGAoasbMIYGQjwKCvz-100" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="adbf0gxOKINehE4KzGT6-20" value="Cipher Solider" style="whiteSpace=wrap;html=1;" parent="l2UShrBRBGjynPekhrLH-56" vertex="1">
+          <mxGeometry x="1010" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-110" value="Cipher Mirror Knight" style="whiteSpace=wrap;html=1;" parent="l2UShrBRBGjynPekhrLH-56" vertex="1">
+          <mxGeometry x="17" y="730" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-70" value="Galaxy" style="swimlane;strokeColor=#000000;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="190" y="920" width="330" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-69" value="Galaxy Cleric" style="whiteSpace=wrap;html=1;" parent="l2UShrBRBGjynPekhrLH-70" vertex="1">
+          <mxGeometry x="20" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-63" value="Galaxy Brave" style="whiteSpace=wrap;html=1;" parent="l2UShrBRBGjynPekhrLH-70" vertex="1">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-95" value="Galaxy Dragon" style="whiteSpace=wrap;html=1;" parent="l2UShrBRBGjynPekhrLH-70" vertex="1">
+          <mxGeometry x="175" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="l2UShrBRBGjynPekhrLH-70" source="UR9S5s7uBedvsv_nVr1A-97" target="UR9S5s7uBedvsv_nVr1A-95" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-97" value="Galaxy Wizard" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="l2UShrBRBGjynPekhrLH-70" vertex="1">
+          <mxGeometry x="175" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-137" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classicThin;endFill=1;strokeWidth=1;" parent="1" source="l2UShrBRBGjynPekhrLH-76" target="l2UShrBRBGjynPekhrLH-66" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-76" value="Polymerization" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="1610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-28" value="Galaxy-Eyes" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="1830" y="40" width="780" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-3" value="Cipher Dragon" style="swimlane;" parent="UR9S5s7uBedvsv_nVr1A-28" vertex="1">
+          <mxGeometry x="40" y="40" width="453" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="zTiNMLr9CzoUcScXoijD-10" value="Neo Galaxy-Eyes Cipher Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="l2UShrBRBGjynPekhrLH-3" vertex="1">
+          <mxGeometry x="300" y="30" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zTiNMLr9CzoUcScXoijD-13" value="Galaxy-Eyes Cipher X Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="l2UShrBRBGjynPekhrLH-3" vertex="1">
+          <mxGeometry x="300" y="120" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zTiNMLr9CzoUcScXoijD-27" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="l2UShrBRBGjynPekhrLH-3" source="zTiNMLr9CzoUcScXoijD-13" target="zTiNMLr9CzoUcScXoijD-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="421.50000000000045" y="120" as="sourcePoint" />
+            <mxPoint x="421.50000000000045" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zTiNMLr9CzoUcScXoijD-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="l2UShrBRBGjynPekhrLH-3" target="zTiNMLr9CzoUcScXoijD-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="60" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zTiNMLr9CzoUcScXoijD-5" value="Galaxy-Eyes Cipher Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="l2UShrBRBGjynPekhrLH-3" vertex="1">
+          <mxGeometry x="30" y="30" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zTiNMLr9CzoUcScXoijD-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.029;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;entryPerimeter=0;" parent="l2UShrBRBGjynPekhrLH-3" source="zTiNMLr9CzoUcScXoijD-5" target="l2UShrBRBGjynPekhrLH-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="165" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zTiNMLr9CzoUcScXoijD-16" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="l2UShrBRBGjynPekhrLH-3" source="zTiNMLr9CzoUcScXoijD-13" target="zTiNMLr9CzoUcScXoijD-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="205" y="130" as="sourcePoint" />
+            <mxPoint x="255" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zTiNMLr9CzoUcScXoijD-19" value="Steal 1 Monster" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="zTiNMLr9CzoUcScXoijD-16" vertex="1" connectable="0">
+          <mxGeometry x="-0.1898" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zTiNMLr9CzoUcScXoijD-12" value="Galaxy-Eyes Cipher Blade Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="l2UShrBRBGjynPekhrLH-3" vertex="1">
+          <mxGeometry x="30" y="120" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zTiNMLr9CzoUcScXoijD-14" value="Post Attack Phase" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;" parent="l2UShrBRBGjynPekhrLH-3" source="zTiNMLr9CzoUcScXoijD-5" target="zTiNMLr9CzoUcScXoijD-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-24" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Rank-Up-Magic Cipher Ascension&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="l2UShrBRBGjynPekhrLH-3" vertex="1">
+          <mxGeometry x="166.5" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-22" value="The Seventh One" style="swimlane;" parent="UR9S5s7uBedvsv_nVr1A-28" vertex="1">
+          <mxGeometry x="40" y="280" width="298.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="UR9S5s7uBedvsv_nVr1A-22" source="UR9S5s7uBedvsv_nVr1A-24" target="UR9S5s7uBedvsv_nVr1A-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-24" value="Number 107: Galaxy-Eyes Tachyon Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="UR9S5s7uBedvsv_nVr1A-22" vertex="1">
+          <mxGeometry x="18.5" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-25" value="Number C107: Neo Galaxy-Eyes Tachyon Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="UR9S5s7uBedvsv_nVr1A-22" vertex="1">
+          <mxGeometry x="158.5" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-5" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="UR9S5s7uBedvsv_nVr1A-28" source="adbf0gxOKINehE4KzGT6-15" target="pbqGAoasbMIYGQjwKCvz-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adbf0gxOKINehE4KzGT6-15" value="Galaxy-Eyes Solflare Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="UR9S5s7uBedvsv_nVr1A-28" vertex="1">
+          <mxGeometry x="40" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-4" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="UR9S5s7uBedvsv_nVr1A-28" source="pbqGAoasbMIYGQjwKCvz-2" target="pbqGAoasbMIYGQjwKCvz-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-2" value="Galaxy-Eyes Photon Dragon" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="UR9S5s7uBedvsv_nVr1A-28" vertex="1">
+          <mxGeometry x="460" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-80" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;strokeWidth=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="UR9S5s7uBedvsv_nVr1A-28" source="pbqGAoasbMIYGQjwKCvz-3" target="pbqGAoasbMIYGQjwKCvz-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="340" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-3" value="Galaxy-Eyes Afterglow Dragon" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="UR9S5s7uBedvsv_nVr1A-28" vertex="1">
+          <mxGeometry x="610" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-27" value="Level 8 Galaxy-Eyes XYZ" style="swimlane;" parent="UR9S5s7uBedvsv_nVr1A-28" vertex="1">
+          <mxGeometry x="580" y="40" width="180" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-28" value="Number 107: Galaxy-Eyes Tachyon Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="pbqGAoasbMIYGQjwKCvz-27" vertex="1">
+          <mxGeometry x="30" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-29" value="Number 62: Galaxy-Eyes Prime Photon Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="pbqGAoasbMIYGQjwKCvz-27" vertex="1">
+          <mxGeometry x="30" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-31" value="Number 90: Galaxy-Eyes Photon Lord" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="pbqGAoasbMIYGQjwKCvz-27" vertex="1">
+          <mxGeometry x="30" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-83" value="Galaxy-Eyes Full Armor Photon Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="UR9S5s7uBedvsv_nVr1A-28" vertex="1">
+          <mxGeometry x="510" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-87" value="Neo Galaxy-Eyes Photon Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="UR9S5s7uBedvsv_nVr1A-28" vertex="1">
+          <mxGeometry x="250" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-116" value="Number 90: Galaxy-Eyes Photon Lord" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="UR9S5s7uBedvsv_nVr1A-28" vertex="1">
+          <mxGeometry x="390" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-63" value="Astral Kuriboh Engine" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="4050" y="40" width="1030" height="745" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-182" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;strokeWidth=1;" parent="UR9S5s7uBedvsv_nVr1A-63" source="UR9S5s7uBedvsv_nVr1A-49" target="pbqGAoasbMIYGQjwKCvz-177" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-183" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;strokeWidth=1;" parent="UR9S5s7uBedvsv_nVr1A-63" source="UR9S5s7uBedvsv_nVr1A-49" target="pbqGAoasbMIYGQjwKCvz-176" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-49" value="Astral Kuriboh" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="UR9S5s7uBedvsv_nVr1A-63" vertex="1">
+          <mxGeometry x="615" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-57" value="Number XYZ" style="swimlane;" parent="UR9S5s7uBedvsv_nVr1A-63" vertex="1">
+          <mxGeometry x="15" y="40" width="995" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-54" value="Level 8 Number XYZ" style="swimlane;" parent="UR9S5s7uBedvsv_nVr1A-57" vertex="1">
+          <mxGeometry x="685" y="40" width="285" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-65" value="Number 23: Lancelot, Dark Knight of the Underworld" style="whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="UR9S5s7uBedvsv_nVr1A-54" vertex="1">
+          <mxGeometry x="20" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-56" value="Number 38: Hope Harbinger Dragon Titanic Galaxy" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="UR9S5s7uBedvsv_nVr1A-54" vertex="1">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-55" value="Number 62: Galaxy-Eyes Prime Photon Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="UR9S5s7uBedvsv_nVr1A-54" vertex="1">
+          <mxGeometry x="150" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="adbf0gxOKINehE4KzGT6-27" value="Number 90: Galaxy-Eyes Photon Lord" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="UR9S5s7uBedvsv_nVr1A-54" vertex="1">
+          <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-51" value="Number 107: Galaxy-Eyes Tachyon Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="UR9S5s7uBedvsv_nVr1A-54" vertex="1">
+          <mxGeometry x="150" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-61" value="Level 4" style="swimlane;" parent="UR9S5s7uBedvsv_nVr1A-57" vertex="1">
+          <mxGeometry x="200" y="40" width="290" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-62" value="Number 39: Utopia" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="UR9S5s7uBedvsv_nVr1A-61" vertex="1">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-71" value="Number 106: Giant Hand" style="whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="UR9S5s7uBedvsv_nVr1A-61" vertex="1">
+          <mxGeometry x="150" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-72" value="Number 103: Ragnazero" style="whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="UR9S5s7uBedvsv_nVr1A-61" vertex="1">
+          <mxGeometry x="20" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-73" value="Number 59: Crooked Cook" style="whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="UR9S5s7uBedvsv_nVr1A-61" vertex="1">
+          <mxGeometry x="20" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-74" value="Number 39: Utopia Double" style="whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="UR9S5s7uBedvsv_nVr1A-61" vertex="1">
+          <mxGeometry x="150" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-77" value="Number 50: Blackship of Corn" style="whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="UR9S5s7uBedvsv_nVr1A-61" vertex="1">
+          <mxGeometry x="150" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-78" value="Number 44: Sky Pegasus" style="whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="UR9S5s7uBedvsv_nVr1A-61" vertex="1">
+          <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-79" value="Number 58: Burner Visor" style="whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="UR9S5s7uBedvsv_nVr1A-61" vertex="1">
+          <mxGeometry x="150" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-80" value="Number 80: Rhapsody in Bersek" style="whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="UR9S5s7uBedvsv_nVr1A-61" vertex="1">
+          <mxGeometry x="150" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-81" value="Number 52: Diamond Crab King" style="whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="UR9S5s7uBedvsv_nVr1A-61" vertex="1">
+          <mxGeometry x="20" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-67" value="Level 7" style="swimlane;" parent="UR9S5s7uBedvsv_nVr1A-57" vertex="1">
+          <mxGeometry x="510" y="40" width="150" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-68" value="Number 11: Big Eye" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="UR9S5s7uBedvsv_nVr1A-67" vertex="1">
+          <mxGeometry x="15" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-75" value="Number 74: Master of Blades" style="whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="UR9S5s7uBedvsv_nVr1A-67" vertex="1">
+          <mxGeometry x="15" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-76" value="Number 28: Titanic Moth" style="whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="UR9S5s7uBedvsv_nVr1A-67" vertex="1">
+          <mxGeometry x="15" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-85" value="Level 1" style="swimlane;" parent="UR9S5s7uBedvsv_nVr1A-57" vertex="1">
+          <mxGeometry x="20" y="40" width="160" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-82" value="Number 63: Shamoji Soldier" style="whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="UR9S5s7uBedvsv_nVr1A-85" vertex="1">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-83" value="Number 78: Number Archive" style="whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="UR9S5s7uBedvsv_nVr1A-85" vertex="1">
+          <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-176" value="Level 4" style="swimlane;" parent="UR9S5s7uBedvsv_nVr1A-63" vertex="1">
+          <mxGeometry x="215" y="535" width="290" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-173" value="Galaxy Wizard" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pbqGAoasbMIYGQjwKCvz-176" vertex="1">
+          <mxGeometry x="150" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-171" value="Heroic Challenger - Extra Sword" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pbqGAoasbMIYGQjwKCvz-176" vertex="1">
+          <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-180" value="Heroic Challenger - Assault Halberd" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pbqGAoasbMIYGQjwKCvz-176" vertex="1">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-177" value="Level 8" style="swimlane;" parent="UR9S5s7uBedvsv_nVr1A-63" vertex="1">
+          <mxGeometry x="820" y="545" width="160" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-178" value="Galaxy Wizard" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pbqGAoasbMIYGQjwKCvz-177" vertex="1">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-198" value="Guardian of the Golden Land" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pbqGAoasbMIYGQjwKCvz-177" vertex="1">
+          <mxGeometry x="20" y="115" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-179" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="UR9S5s7uBedvsv_nVr1A-63" source="pbqGAoasbMIYGQjwKCvz-173" target="pbqGAoasbMIYGQjwKCvz-178" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="585" as="sourcePoint" />
+            <mxPoint x="475" y="535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-184" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=classicThin;endFill=1;strokeWidth=1;" parent="UR9S5s7uBedvsv_nVr1A-63" source="pbqGAoasbMIYGQjwKCvz-177" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="915" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="915" y="525" />
+              <mxPoint x="925" y="525" />
+              <mxPoint x="935" y="525" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-185" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;strokeWidth=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="UR9S5s7uBedvsv_nVr1A-63" source="pbqGAoasbMIYGQjwKCvz-176" target="UR9S5s7uBedvsv_nVr1A-57" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="365" y="505" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-89" value="Meklord Astro Mekanikle" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="2420" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-90" value="Dystopia the Descpondent" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="2540" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-91" value="Nibiru, the Primal Being" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="2300" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-92" value="The Winged Dragon of Ra" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="2660" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-93" value="Rainbow Dragon" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="2780" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-94" value="Red-Eyes Darkness Metal Dragon" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="820" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UR9S5s7uBedvsv_nVr1A-95" target="UR9S5s7uBedvsv_nVr1A-94" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-107" value="Key" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="-460" y="660" width="280" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-99" value="UR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="UR9S5s7uBedvsv_nVr1A-107" vertex="1">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-100" value="SR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="UR9S5s7uBedvsv_nVr1A-107" vertex="1">
+          <mxGeometry x="20" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-101" value="R" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="UR9S5s7uBedvsv_nVr1A-107" vertex="1">
+          <mxGeometry x="20" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-102" value="C" style="rounded=0;whiteSpace=wrap;html=1;" parent="UR9S5s7uBedvsv_nVr1A-107" vertex="1">
+          <mxGeometry x="20" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-103" value="UR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="UR9S5s7uBedvsv_nVr1A-107" vertex="1">
+          <mxGeometry x="140" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-104" value="R" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="UR9S5s7uBedvsv_nVr1A-107" vertex="1">
+          <mxGeometry x="140" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-105" value="SR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="UR9S5s7uBedvsv_nVr1A-107" vertex="1">
+          <mxGeometry x="140" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-106" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="UR9S5s7uBedvsv_nVr1A-107" vertex="1">
+          <mxGeometry x="140" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="adbf0gxOKINehE4KzGT6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="adbf0gxOKINehE4KzGT6-1" target="adbf0gxOKINehE4KzGT6-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adbf0gxOKINehE4KzGT6-1" value="Reinforcement of the Army" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="2300" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="adbf0gxOKINehE4KzGT6-5" value="Level 4 or Lower Warrior" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="2620" y="1210" width="290" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="adbf0gxOKINehE4KzGT6-7" value="Armageddon Knight" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="adbf0gxOKINehE4KzGT6-5" vertex="1">
+          <mxGeometry x="150" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="adbf0gxOKINehE4KzGT6-9" value="G.B. Hunter" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="adbf0gxOKINehE4KzGT6-5" vertex="1">
+          <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="adbf0gxOKINehE4KzGT6-10" value="Heroic Challenger - Assault Halberd" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="adbf0gxOKINehE4KzGT6-5" vertex="1">
+          <mxGeometry x="150" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="adbf0gxOKINehE4KzGT6-11" value="Elemental HERO Shadow Mist" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="adbf0gxOKINehE4KzGT6-5" vertex="1">
+          <mxGeometry x="20" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="adbf0gxOKINehE4KzGT6-12" value="Dragodies, the Empowered Warrior" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="adbf0gxOKINehE4KzGT6-5" vertex="1">
+          <mxGeometry x="150" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-21" value="Rank-Up-Magic - The Seventh One" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="1650" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UR9S5s7uBedvsv_nVr1A-21" target="UR9S5s7uBedvsv_nVr1A-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adbf0gxOKINehE4KzGT6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="adbf0gxOKINehE4KzGT6-16" target="adbf0gxOKINehE4KzGT6-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-25" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="l2UShrBRBGjynPekhrLH-38" target="pbqGAoasbMIYGQjwKCvz-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1670" y="1840" as="sourcePoint" />
+            <mxPoint x="2490" y="945.9999084472656" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-37" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;strokeWidth=1;" parent="1" source="pbqGAoasbMIYGQjwKCvz-3" target="pbqGAoasbMIYGQjwKCvz-186" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-48" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="pbqGAoasbMIYGQjwKCvz-12" target="UR9S5s7uBedvsv_nVr1A-54" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4195" y="970" as="sourcePoint" />
+            <mxPoint x="4210" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-55" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zTiNMLr9CzoUcScXoijD-45" target="pbqGAoasbMIYGQjwKCvz-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2410" y="1950" as="sourcePoint" />
+            <mxPoint x="2460" y="1900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-60" value="Nebula Dragon Engine" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="3250" y="1180" width="760" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-6" value="Nebula Dragon" style="whiteSpace=wrap;html=1;" parent="pbqGAoasbMIYGQjwKCvz-60" vertex="1">
+          <mxGeometry x="75" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-9" value="Level 8 Dragon" style="swimlane;" parent="pbqGAoasbMIYGQjwKCvz-60" vertex="1">
+          <mxGeometry x="255" y="57.5" width="160" height="265" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-54" value="Blue-Eyes White Dragon" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="pbqGAoasbMIYGQjwKCvz-9" vertex="1">
+          <mxGeometry x="18.5" y="45" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-7" value="Galaxy-Eyes Photon Dragon" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pbqGAoasbMIYGQjwKCvz-9" vertex="1">
+          <mxGeometry x="20" y="115" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-8" value="Galaxy-Eyes Afterglow Dragon" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pbqGAoasbMIYGQjwKCvz-9" vertex="1">
+          <mxGeometry x="21.5" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-10" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="pbqGAoasbMIYGQjwKCvz-60" source="pbqGAoasbMIYGQjwKCvz-6" target="pbqGAoasbMIYGQjwKCvz-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-12" value="Level 8 Light/Dark Dragon XYZ" style="swimlane;" parent="pbqGAoasbMIYGQjwKCvz-60" vertex="1">
+          <mxGeometry x="452.5" y="50" width="287.5" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-49" value="Number 62: Galaxy-Eyes Prime Photon Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="pbqGAoasbMIYGQjwKCvz-12" vertex="1">
+          <mxGeometry x="17.5" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-50" value="Number 107: Galaxy-Eyes Tachyon Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="pbqGAoasbMIYGQjwKCvz-12" vertex="1">
+          <mxGeometry x="17.5" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-51" value="Number 38: Hope Harbinger Dragon Titanic Galaxy" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="pbqGAoasbMIYGQjwKCvz-12" vertex="1">
+          <mxGeometry x="147.5" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-85" value="Galaxy-Eyes Cipher Dragon" style="whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="pbqGAoasbMIYGQjwKCvz-12" vertex="1">
+          <mxGeometry x="17.5" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-84" value="Neo Galaxy-Eyes Photon Dragon" style="whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="pbqGAoasbMIYGQjwKCvz-12" vertex="1">
+          <mxGeometry x="147.5" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-81" value="Galaxy-Eyes Full Armor Photon Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="pbqGAoasbMIYGQjwKCvz-12" vertex="1">
+          <mxGeometry x="147.5" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-52" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;strokeWidth=1;" parent="pbqGAoasbMIYGQjwKCvz-60" source="pbqGAoasbMIYGQjwKCvz-9" target="pbqGAoasbMIYGQjwKCvz-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-61" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="pbqGAoasbMIYGQjwKCvz-27" target="UR9S5s7uBedvsv_nVr1A-54" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2970" y="420" as="sourcePoint" />
+            <mxPoint x="4000" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zTiNMLr9CzoUcScXoijD-20" value="Divine Arsenal AA--ZEUS - Sky Thunder" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="1650" y="230" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-19" value="XYZ" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zTiNMLr9CzoUcScXoijD-12" target="zTiNMLr9CzoUcScXoijD-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1810" y="230" />
+              <mxPoint x="1810" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-94" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pbqGAoasbMIYGQjwKCvz-91" target="zTiNMLr9CzoUcScXoijD-35" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950" y="370" as="sourcePoint" />
+            <mxPoint x="1000" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-91" value="The White Stone of Ancients" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1650" y="450" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-107" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pbqGAoasbMIYGQjwKCvz-95" target="l2UShrBRBGjynPekhrLH-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1510" y="220" as="sourcePoint" />
+            <mxPoint x="1560" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-29" value="Starliege Paladynamo" style="whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="850" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-32" value="XYZ" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="l2UShrBRBGjynPekhrLH-30" target="l2UShrBRBGjynPekhrLH-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-109" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pbqGAoasbMIYGQjwKCvz-108" target="l2UShrBRBGjynPekhrLH-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="880" as="sourcePoint" />
+            <mxPoint x="580" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-14" value="Cipher Mirror Knight Engine" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="-830" y="105" width="568.5" height="265" as="geometry" />
+        </mxCell>
+        <mxCell id="zTiNMLr9CzoUcScXoijD-31" value="Cipher Mirror Knight" style="whiteSpace=wrap;html=1;" parent="l2UShrBRBGjynPekhrLH-14" vertex="1">
+          <mxGeometry x="170" y="40" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-9" value="XYZ" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=bottom;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="l2UShrBRBGjynPekhrLH-14" source="zTiNMLr9CzoUcScXoijD-31" target="UR9S5s7uBedvsv_nVr1A-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-6" value="Detach Engine" style="swimlane;" parent="l2UShrBRBGjynPekhrLH-14" vertex="1">
+          <mxGeometry x="338.5" y="40" width="171.5" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-8" value="Heroic Champion - Excalibur" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="UR9S5s7uBedvsv_nVr1A-6" vertex="1">
+          <mxGeometry x="30" y="120" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UR9S5s7uBedvsv_nVr1A-5" value="Starliege Paladynamo" style="whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="UR9S5s7uBedvsv_nVr1A-6" vertex="1">
+          <mxGeometry x="30" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-6" value="Heroic Challenger - Assault Halberd" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="l2UShrBRBGjynPekhrLH-14" vertex="1">
+          <mxGeometry x="170" y="150" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-7" value="+" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=bottom;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="l2UShrBRBGjynPekhrLH-14" source="l2UShrBRBGjynPekhrLH-6" target="zTiNMLr9CzoUcScXoijD-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-108" value="Photon Thrasher" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="l2UShrBRBGjynPekhrLH-14" vertex="1">
+          <mxGeometry x="18.5" y="40" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2UShrBRBGjynPekhrLH-5" value="+" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=bottom;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="l2UShrBRBGjynPekhrLH-14" source="pbqGAoasbMIYGQjwKCvz-108" target="zTiNMLr9CzoUcScXoijD-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="108.5" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-111" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zTiNMLr9CzoUcScXoijD-31" target="pbqGAoasbMIYGQjwKCvz-110" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="960" as="sourcePoint" />
+            <mxPoint x="390" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-114" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;strokeWidth=1;" parent="1" source="UR9S5s7uBedvsv_nVr1A-6" target="zTiNMLr9CzoUcScXoijD-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-118" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;strokeWidth=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="pbqGAoasbMIYGQjwKCvz-117" target="l2UShrBRBGjynPekhrLH-47" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-340" y="1400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-117" value="Reinforcement of the Army" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="500" y="1390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-119" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pbqGAoasbMIYGQjwKCvz-117" target="adbf0gxOKINehE4KzGT6-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1290" y="1240" as="sourcePoint" />
+            <mxPoint x="1340" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-127" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l2UShrBRBGjynPekhrLH-66" target="pbqGAoasbMIYGQjwKCvz-126" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="1870" as="sourcePoint" />
+            <mxPoint x="580" y="1820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-133" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pbqGAoasbMIYGQjwKCvz-120" target="pbqGAoasbMIYGQjwKCvz-142" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="1610" as="sourcePoint" />
+            <mxPoint x="830" y="1560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-135" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="pbqGAoasbMIYGQjwKCvz-142" target="zTiNMLr9CzoUcScXoijD-45" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1650" y="2000" as="sourcePoint" />
+            <mxPoint x="2050" y="1780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-142" value="Tribute Engine" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="300" y="2230" width="1930" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-125" value="Twin Photon Lizard Engine" style="swimlane;" parent="pbqGAoasbMIYGQjwKCvz-142" vertex="1">
+          <mxGeometry x="950" y="45" width="910" height="405" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-131" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;strokeWidth=1;" parent="pbqGAoasbMIYGQjwKCvz-125" source="pbqGAoasbMIYGQjwKCvz-126" target="pbqGAoasbMIYGQjwKCvz-128" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-126" value="Twin Photon Lizard" style="whiteSpace=wrap;html=1;" parent="pbqGAoasbMIYGQjwKCvz-125" vertex="1">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-128" value="Other Tribute 2" style="swimlane;" parent="pbqGAoasbMIYGQjwKCvz-125" vertex="1">
+          <mxGeometry x="190" y="40" width="670" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-149" value="Photon Sanctuary Engine" style="swimlane;" parent="pbqGAoasbMIYGQjwKCvz-142" vertex="1">
+          <mxGeometry x="20" y="45" width="910" height="405" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-150" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;strokeWidth=1;" parent="pbqGAoasbMIYGQjwKCvz-149" source="pbqGAoasbMIYGQjwKCvz-141" target="pbqGAoasbMIYGQjwKCvz-144" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-141" value="Photon Sanctuary" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pbqGAoasbMIYGQjwKCvz-149" vertex="1">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-144" value="Light Tribute 2" style="swimlane;startSize=23;" parent="pbqGAoasbMIYGQjwKCvz-149" vertex="1">
+          <mxGeometry x="290" y="40" width="587" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-145" value="Galaxy-Eyes Photon Dragon" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pbqGAoasbMIYGQjwKCvz-144" vertex="1">
+          <mxGeometry x="21.5" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-146" value="Photon Wyvern" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pbqGAoasbMIYGQjwKCvz-144" vertex="1">
+          <mxGeometry x="21.5" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-147" value="Blue-Eyes White Dragon" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="pbqGAoasbMIYGQjwKCvz-144" vertex="1">
+          <mxGeometry x="20" y="40" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-148" value="Vanity&#39;s Ruler" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="pbqGAoasbMIYGQjwKCvz-144" vertex="1">
+          <mxGeometry x="157" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-151" value="Performpal Sleight of Hand Magician" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="pbqGAoasbMIYGQjwKCvz-144" vertex="1">
+          <mxGeometry x="287" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-162" value="Dragon Spirit of White" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pbqGAoasbMIYGQjwKCvz-144" vertex="1">
+          <mxGeometry x="157" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-200" value="Swordsman of Revealing Light" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pbqGAoasbMIYGQjwKCvz-144" vertex="1">
+          <mxGeometry x="287" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-154" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="pbqGAoasbMIYGQjwKCvz-142" source="pbqGAoasbMIYGQjwKCvz-144" target="pbqGAoasbMIYGQjwKCvz-128" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="260" as="sourcePoint" />
+            <mxPoint x="960" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-152" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="pbqGAoasbMIYGQjwKCvz-142" target="l2UShrBRBGjynPekhrLH-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1910" y="1130" as="sourcePoint" />
+            <mxPoint x="1960" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-155" value="Photon Sanctuary" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="340" y="2800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-156" value="Light Link 2" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="580" y="2780" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-163" value="Number 39: Utopia" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+          <mxGeometry x="2180" y="1780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-186" value="Level 8 XYZ" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="2735" y="295" width="285" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-190" value="Number 62: Galaxy-Eyes Prime Photon Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="pbqGAoasbMIYGQjwKCvz-186" vertex="1">
+          <mxGeometry x="15" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-191" value="Number 107: Galaxy-Eyes Tachyon Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="pbqGAoasbMIYGQjwKCvz-186" vertex="1">
+          <mxGeometry x="15" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-192" value="Number 38: Hope Harbinger Dragon Titanic Galaxy" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="pbqGAoasbMIYGQjwKCvz-186" vertex="1">
+          <mxGeometry x="145" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-193" value="Galaxy-Eyes Cipher Dragon" style="whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="pbqGAoasbMIYGQjwKCvz-186" vertex="1">
+          <mxGeometry x="15" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-194" value="Neo Galaxy-Eyes Photon Dragon" style="whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="pbqGAoasbMIYGQjwKCvz-186" vertex="1">
+          <mxGeometry x="145" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-195" value="Galaxy-Eyes Full Armor Photon Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="pbqGAoasbMIYGQjwKCvz-186" vertex="1">
+          <mxGeometry x="145" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-196" value="Number 23: Lancelot, Dark Knight of the Underworld" style="whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="pbqGAoasbMIYGQjwKCvz-186" vertex="1">
+          <mxGeometry x="15" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-189" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="pbqGAoasbMIYGQjwKCvz-186" target="UR9S5s7uBedvsv_nVr1A-54" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3620" y="530" as="sourcePoint" />
+            <mxPoint x="3670" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-197" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;strokeWidth=1;" parent="1" source="zTiNMLr9CzoUcScXoijD-1" target="pbqGAoasbMIYGQjwKCvz-91" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbqGAoasbMIYGQjwKCvz-199" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pbqGAoasbMIYGQjwKCvz-186" target="pbqGAoasbMIYGQjwKCvz-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3480" y="710" as="sourcePoint" />
+            <mxPoint x="3530" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Pd3pRL6NefnHn6a3GuWg" name="Counterswing Mages">
+    <mxGraphModel dx="1126" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GcTofnwLk3OoYtkIxA4b-1" value="Performapal Rainbow-Five Magician" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBSK3UWD6PkrROFdpDBm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qBSK3UWD6PkrROFdpDBm-1" target="GcTofnwLk3OoYtkIxA4b-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qBSK3UWD6PkrROFdpDBm-1" value="Odd-Eyes Pendulum Dragon" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
