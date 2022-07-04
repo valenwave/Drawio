@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T04:15:35.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="IVA3Aie1QRnivto3Dqge" version="20.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-04T04:25:21.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="2nNzuEDfwjHZMxJFZnJk" version="20.0.4" type="github" pages="3">
   <diagram id="QhzCPen-d7Ydq9bi7PbF" name="Nebula Cyclone">
     <mxGraphModel dx="9088" dy="4116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1587,7 +1587,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Pd3pRL6NefnHn6a3GuWg" name="Counterswing Mages">
-    <mxGraphModel dx="1354" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="1987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1735,10 +1735,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fx8rHQnOLpKPCzh-jcxa-1" value="Backrow Destruction" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="790" y="240" width="160" height="120" as="geometry" />
+          <mxGeometry x="900" y="230" width="400" height="260" as="geometry" />
         </mxCell>
         <mxCell id="AhEIudt0v6vOa5x61dQh-1" value="Heavy Storm Duster" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="fx8rHQnOLpKPCzh-jcxa-1" vertex="1">
+          <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0YRTWQJqqaeggvXChqE-18" value="Harpie&#39;s Feather Duster" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="fx8rHQnOLpKPCzh-jcxa-1">
           <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0YRTWQJqqaeggvXChqE-20" value="Twin Twisters" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="fx8rHQnOLpKPCzh-jcxa-1">
+          <mxGeometry x="260" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0YRTWQJqqaeggvXChqE-22" value="Zaphion, the Timelord" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="fx8rHQnOLpKPCzh-jcxa-1">
+          <mxGeometry x="20" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0YRTWQJqqaeggvXChqE-25" value="Galaxy Cyclone" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="fx8rHQnOLpKPCzh-jcxa-1">
+          <mxGeometry x="140" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0YRTWQJqqaeggvXChqE-24" value="Mystical Space Typhoon" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="fx8rHQnOLpKPCzh-jcxa-1">
+          <mxGeometry x="140" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0YRTWQJqqaeggvXChqE-26" value="Dust Tornado" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="fx8rHQnOLpKPCzh-jcxa-1">
+          <mxGeometry x="260" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fx8rHQnOLpKPCzh-jcxa-2" value="Nobledragon Magician Synchro Engine" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="1430" y="-620" width="470" height="200" as="geometry" />
