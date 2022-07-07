@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T12:43:52.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="5rtBleP6wS7OYhSGZtkE" version="20.0.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-07-07T14:04:54.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="3GOjqIXr4XuOvr6juUiY" version="20.0.4" type="github" pages="6">
   <diagram id="QhzCPen-d7Ydq9bi7PbF" name="Nebula Cyclone">
-    <mxGraphModel dx="5764" dy="2584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4791" dy="1973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1205,37 +1205,40 @@
           <mxGeometry x="3127" y="3010" width="123" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-2lK0LMK_aKwHJS39hfF-90" value="Afterglow Dragon XYZ" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="3610" y="4210" width="2640" height="910" as="geometry" />
+          <mxGeometry x="3310" y="4390" width="850" height="320" as="geometry" />
         </mxCell>
         <mxCell id="-2lK0LMK_aKwHJS39hfF-91" value="Level 8 XYZ" style="swimlane;" parent="-2lK0LMK_aKwHJS39hfF-90" vertex="1">
-          <mxGeometry x="445" y="100" width="285" height="265" as="geometry" />
+          <mxGeometry x="310" y="40" width="520" height="260" as="geometry" />
         </mxCell>
         <mxCell id="-2lK0LMK_aKwHJS39hfF-92" value="Number 62: Galaxy-Eyes Prime Photon Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="-2lK0LMK_aKwHJS39hfF-91" vertex="1">
           <mxGeometry x="15" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-2lK0LMK_aKwHJS39hfF-93" value="Number 107: Galaxy-Eyes Tachyon Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="-2lK0LMK_aKwHJS39hfF-91" vertex="1">
-          <mxGeometry x="15" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="375" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-2lK0LMK_aKwHJS39hfF-94" value="Number 38: Hope Harbinger Dragon Titanic Galaxy" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="-2lK0LMK_aKwHJS39hfF-91" vertex="1">
-          <mxGeometry x="145" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="135" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-2lK0LMK_aKwHJS39hfF-95" value="Galaxy-Eyes Cipher Dragon" style="whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="-2lK0LMK_aKwHJS39hfF-91" vertex="1">
-          <mxGeometry x="145" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="135" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-2lK0LMK_aKwHJS39hfF-96" value="Galaxy-Eyes Full Armor Photon Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="-2lK0LMK_aKwHJS39hfF-91" vertex="1">
-          <mxGeometry x="145" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-2lK0LMK_aKwHJS39hfF-97" value="Number 23: Lancelot, Dark Knight of the Underworld" style="whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="-2lK0LMK_aKwHJS39hfF-91" vertex="1">
           <mxGeometry x="15" y="180" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-2lK0LMK_aKwHJS39hfF-97" value="Number 23: Lancelot, Dark Knight of the Underworld" style="whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="-2lK0LMK_aKwHJS39hfF-91" vertex="1">
+          <mxGeometry x="15" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HpAIDgcoltPmSg3XRQ8Q-5" value="Number 90: Galaxy-Eyes Photon Lord" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="-2lK0LMK_aKwHJS39hfF-91">
+          <mxGeometry x="255" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="-2lK0LMK_aKwHJS39hfF-98" value="Galaxy-Eyes Photon Dragon" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="-2lK0LMK_aKwHJS39hfF-90" vertex="1">
-          <mxGeometry x="20" y="202.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-2lK0LMK_aKwHJS39hfF-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="-2lK0LMK_aKwHJS39hfF-90" source="-2lK0LMK_aKwHJS39hfF-100" target="-2lK0LMK_aKwHJS39hfF-91" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-2lK0LMK_aKwHJS39hfF-100" value="Galaxy-Eyes Afterglow Dragon" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="-2lK0LMK_aKwHJS39hfF-90" vertex="1">
-          <mxGeometry x="170" y="202.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-2lK0LMK_aKwHJS39hfF-101" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="-2lK0LMK_aKwHJS39hfF-90" source="-2lK0LMK_aKwHJS39hfF-98" target="-2lK0LMK_aKwHJS39hfF-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
