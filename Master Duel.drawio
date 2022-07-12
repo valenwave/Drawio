@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T21:41:08.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="zwjMDARYDRAm5Cyc1vrc" version="20.0.4" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-07-12T15:50:32.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="bFIlES1oCPuN44R_ZpPm" version="20.0.4" type="github" pages="11">
   <diagram id="G-61WZPsZPxkNv4mN3Ph" name="Main">
     <mxGraphModel dx="4082" dy="-954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -72,7 +72,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QhzCPen-d7Ydq9bi7PbF" name="Nebula Cyclone">
-    <mxGraphModel dx="5782" dy="2346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6047" dy="2484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2809,8 +2809,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="XAk19jjL0grtEa7kNc-3" name="Suship">
-    <mxGraphModel dx="1361" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="XAk19jjL0grtEa7kNc-3" name="Gunkan Suship">
+    <mxGraphModel dx="2382" dy="1246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2826,20 +2826,89 @@
         <mxCell id="OCiO5wUWhMqaQ557Brtb-3" value="Gunkan Suship Shiranuo" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OCiO5wUWhMqaQ557Brtb-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="100" as="sourcePoint" />
-            <mxPoint x="280" y="160" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="8Kykemo6swlWoFwxvEj6-3" value="FIRE Support" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="160" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="OCiO5wUWhMqaQ557Brtb-5" value="Link 4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="180" width="60" height="30" as="geometry" />
+        <mxCell id="8Kykemo6swlWoFwxvEj6-1" value="Barrier Statue of the Inferno" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="8Kykemo6swlWoFwxvEj6-3">
+          <mxGeometry x="20" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OCiO5wUWhMqaQ557Brtb-6" value="XYZ 4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="180" width="60" height="30" as="geometry" />
+        <mxCell id="8Kykemo6swlWoFwxvEj6-2" value="True King Agnimazud, the Vanisher" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="8Kykemo6swlWoFwxvEj6-3">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OCiO5wUWhMqaQ557Brtb-7" value="Tribute 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="330" y="180" width="70" height="30" as="geometry" />
+        <mxCell id="8Kykemo6swlWoFwxvEj6-4" value="Hazy Flame Sphynx" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="8Kykemo6swlWoFwxvEj6-3">
+          <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GAFAiYKfozU2mNSzuA_l-18" value="Astral Kuiboh Level 4" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="510" y="280" width="600" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="GAFAiYKfozU2mNSzuA_l-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GAFAiYKfozU2mNSzuA_l-18" source="8Kykemo6swlWoFwxvEj6-6" target="GAFAiYKfozU2mNSzuA_l-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Kykemo6swlWoFwxvEj6-6" value="Astral Kuriboh" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="GAFAiYKfozU2mNSzuA_l-18">
+          <mxGeometry x="20" y="265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GAFAiYKfozU2mNSzuA_l-1" value="Level 4" style="swimlane;" vertex="1" parent="GAFAiYKfozU2mNSzuA_l-18">
+          <mxGeometry x="180" y="40" width="400" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="8Kykemo6swlWoFwxvEj6-5" value="Number 39: Utopia" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="GAFAiYKfozU2mNSzuA_l-1">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Kykemo6swlWoFwxvEj6-7" value="Number 106: Giant Hand" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="GAFAiYKfozU2mNSzuA_l-1">
+          <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Kykemo6swlWoFwxvEj6-8" value="Number 105: Battlin&#39; Boxer Star Cestus" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="GAFAiYKfozU2mNSzuA_l-1">
+          <mxGeometry x="140" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GAFAiYKfozU2mNSzuA_l-5" value="Number 59: Crooked Cook" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="GAFAiYKfozU2mNSzuA_l-1">
+          <mxGeometry x="260" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Kykemo6swlWoFwxvEj6-9" value="Number 103: Ragnazero" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="GAFAiYKfozU2mNSzuA_l-1">
+          <mxGeometry x="20" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GAFAiYKfozU2mNSzuA_l-6" value="Number 39: Utopia Double" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="GAFAiYKfozU2mNSzuA_l-1">
+          <mxGeometry x="140" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GAFAiYKfozU2mNSzuA_l-12" value="Number 10: Illumiknight" style="whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="GAFAiYKfozU2mNSzuA_l-1">
+          <mxGeometry x="20" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GAFAiYKfozU2mNSzuA_l-7" value="Number 50: Blackship of Corn" style="whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="GAFAiYKfozU2mNSzuA_l-1">
+          <mxGeometry x="140" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GAFAiYKfozU2mNSzuA_l-13" value="Number 91: Thunder Spark Dragon" style="whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="GAFAiYKfozU2mNSzuA_l-1">
+          <mxGeometry x="260" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GAFAiYKfozU2mNSzuA_l-14" value="Number 104: Masquerade" style="whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="GAFAiYKfozU2mNSzuA_l-1">
+          <mxGeometry x="20" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GAFAiYKfozU2mNSzuA_l-8" value="Number 44: Sky Pegasus" style="whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="GAFAiYKfozU2mNSzuA_l-1">
+          <mxGeometry x="140" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GAFAiYKfozU2mNSzuA_l-15" value="Number 57: Tri-Head Dust Dragon" style="whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="GAFAiYKfozU2mNSzuA_l-1">
+          <mxGeometry x="260" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GAFAiYKfozU2mNSzuA_l-9" value="Number 58: Burner Visor" style="whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="GAFAiYKfozU2mNSzuA_l-1">
+          <mxGeometry x="20" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GAFAiYKfozU2mNSzuA_l-10" value="Number 80: Rhapsody in Bersek" style="whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="GAFAiYKfozU2mNSzuA_l-1">
+          <mxGeometry x="140" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GAFAiYKfozU2mNSzuA_l-11" value="Number 52: Diamond Crab King" style="whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="GAFAiYKfozU2mNSzuA_l-1">
+          <mxGeometry x="260" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GAFAiYKfozU2mNSzuA_l-17" value="Number 70: Malevolent Sin" style="whiteSpace=wrap;html=1;" vertex="1" parent="GAFAiYKfozU2mNSzuA_l-1">
+          <mxGeometry x="140" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GAFAiYKfozU2mNSzuA_l-16" value="Number 82: Heartlandraco" style="whiteSpace=wrap;html=1;" vertex="1" parent="GAFAiYKfozU2mNSzuA_l-1">
+          <mxGeometry x="20" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GAFAiYKfozU2mNSzuA_l-21" value="Normal Monster Support" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="40" y="530" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GAFAiYKfozU2mNSzuA_l-20" value="Unexpected Dai" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="GAFAiYKfozU2mNSzuA_l-21">
+          <mxGeometry x="45" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GAFAiYKfozU2mNSzuA_l-22" value="Saryuja Skull Dread" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="300" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
