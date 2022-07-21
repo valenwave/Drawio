@@ -1,23 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2022-07-21T14:37:57.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="PDC3tsZElwi2twypr3Pr" version="20.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-21T14:38:53.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="QWbA5N9F8zyDGovpILmr" version="20.1.4" type="github">
   <diagram id="k3XtddSRICdn5ckGxZP9" name="Graveyard Support">
-    <mxGraphModel dx="1369" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1141" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="J6CSg8eaZkPXc1e662Wj-20" value="Graveyard Support" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="20" y="20" width="500" height="320" as="geometry" />
-        </mxCell>
-        <mxCell id="qbupHraFLRX2WD-IEX-6-1" value="Deck to Graveyard" style="swimlane;" parent="J6CSg8eaZkPXc1e662Wj-20" vertex="1">
-          <mxGeometry x="20" y="40" width="160" height="200" as="geometry" />
+        <mxCell id="qbupHraFLRX2WD-IEX-6-1" value="Deck to Graveyard" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="20" y="20" width="160" height="190" as="geometry" />
         </mxCell>
         <mxCell id="J6CSg8eaZkPXc1e662Wj-21" value="Foolish Burial" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="qbupHraFLRX2WD-IEX-6-1" vertex="1">
           <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qbupHraFLRX2WD-IEX-6-2" value="Armageddon Knight..." style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="qbupHraFLRX2WD-IEX-6-1" vertex="1">
+        <mxCell id="qbupHraFLRX2WD-IEX-6-2" value="Armageddon Knight" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="qbupHraFLRX2WD-IEX-6-1" vertex="1">
           <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qbupHraFLRX2WD-IEX-6-3" value="Hand to Graveyard" style="swimlane;" parent="J6CSg8eaZkPXc1e662Wj-20" vertex="1">
-          <mxGeometry x="200" y="40" width="280" height="260" as="geometry" />
+        <mxCell id="qbupHraFLRX2WD-IEX-6-3" value="Hand to Graveyard" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="200" y="20" width="280" height="260" as="geometry" />
         </mxCell>
         <mxCell id="uOeM7xrh9b_xjBoLv8GL-2" value="Morphing Jar" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="qbupHraFLRX2WD-IEX-6-3" vertex="1">
           <mxGeometry x="15" y="40" width="120" height="60" as="geometry" />
