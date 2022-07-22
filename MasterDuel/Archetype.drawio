@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-22T18:54:49.109Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="B2RuVnAc_MVXFBuWJu7x" version="20.2.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-07-22T20:55:08.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="jwK2o_gBBb-RdCRYA4lw" version="20.2.0" type="github" pages="6">
   <diagram id="nKGaeM0TSgJgjrBLLhOO" name="Blackwing">
     <mxGraphModel dx="1369" dy="1944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -491,38 +491,128 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Qz7vCscXwDI27xFOmgW6" name="Heroic">
-    <mxGraphModel dx="-666" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-331" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="s19yZ76gr4-OTxgtI--Y-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="s19yZ76gr4-OTxgtI--Y-2" target="s19yZ76gr4-OTxgtI--Y-3" edge="1">
+        <mxCell id="s19yZ76gr4-OTxgtI--Y-3" value="Heroic Challenger - Double Lance" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1960" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzbmh2egTgXPa3pGqjr-1" value="Heroic" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="20" width="720" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzbmh2egTgXPa3pGqjr-2" value="Heroic Challenger - Assault Halberd" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="Cbzbmh2egTgXPa3pGqjr-1">
+          <mxGeometry x="20" y="50" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzbmh2egTgXPa3pGqjr-3" value="Heroic Challenger - Extra Sword" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Cbzbmh2egTgXPa3pGqjr-1">
+          <mxGeometry x="170" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzbmh2egTgXPa3pGqjr-4" value="Heroic Champion - Excalibur" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="Cbzbmh2egTgXPa3pGqjr-1">
+          <mxGeometry x="310" y="50" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzbmh2egTgXPa3pGqjr-5" value="Heroic Challenger - Swordshield" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Cbzbmh2egTgXPa3pGqjr-1">
+          <mxGeometry x="170" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzbmh2egTgXPa3pGqjr-6" value="Number 86: Heroic Chamption - Rhongomyniad" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="Cbzbmh2egTgXPa3pGqjr-1">
+          <mxGeometry x="310" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzbmh2egTgXPa3pGqjr-7" value="Heroic Challenger - Double Lance" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Cbzbmh2egTgXPa3pGqjr-1">
+          <mxGeometry x="170" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzbmh2egTgXPa3pGqjr-8" value="Heroic Retribution Sword" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Cbzbmh2egTgXPa3pGqjr-1">
+          <mxGeometry x="170" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzbmh2egTgXPa3pGqjr-9" value="Heroic Challenger - War Hammer" style="whiteSpace=wrap;html=1;" vertex="1" parent="Cbzbmh2egTgXPa3pGqjr-1">
+          <mxGeometry x="310" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzbmh2egTgXPa3pGqjr-10" value="Heroic Challenger - Spartan" style="whiteSpace=wrap;html=1;" vertex="1" parent="Cbzbmh2egTgXPa3pGqjr-1">
+          <mxGeometry x="310" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzbmh2egTgXPa3pGqjr-11" value="Heroic Challenger - Night Watchman" style="whiteSpace=wrap;html=1;" vertex="1" parent="Cbzbmh2egTgXPa3pGqjr-1">
+          <mxGeometry x="450" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzbmh2egTgXPa3pGqjr-12" value="Heroic Challenger - Ambush Soldier" style="whiteSpace=wrap;html=1;" vertex="1" parent="Cbzbmh2egTgXPa3pGqjr-1">
+          <mxGeometry x="450" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzbmh2egTgXPa3pGqjr-13" value="Heroic Challenger - Clasp Sword" style="whiteSpace=wrap;html=1;" vertex="1" parent="Cbzbmh2egTgXPa3pGqjr-1">
+          <mxGeometry x="450" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzbmh2egTgXPa3pGqjr-14" value="Heroic Chance" style="whiteSpace=wrap;html=1;" vertex="1" parent="Cbzbmh2egTgXPa3pGqjr-1">
+          <mxGeometry x="450" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzbmh2egTgXPa3pGqjr-15" value="Heroic Gift" style="whiteSpace=wrap;html=1;" vertex="1" parent="Cbzbmh2egTgXPa3pGqjr-1">
+          <mxGeometry x="580" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzbmh2egTgXPa3pGqjr-16" value="Heroic Advance" style="whiteSpace=wrap;html=1;" vertex="1" parent="Cbzbmh2egTgXPa3pGqjr-1">
+          <mxGeometry x="580" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzbmh2egTgXPa3pGqjr-17" value="Extra Sword Support" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="2490" y="30" width="790" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzbmh2egTgXPa3pGqjr-18" value="Heroic Challenger - Assault Halberd" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="Cbzbmh2egTgXPa3pGqjr-17">
+          <mxGeometry x="12.5" y="40" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzbmh2egTgXPa3pGqjr-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="Cbzbmh2egTgXPa3pGqjr-17" source="Cbzbmh2egTgXPa3pGqjr-20" target="Cbzbmh2egTgXPa3pGqjr-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s19yZ76gr4-OTxgtI--Y-2" value="Foolish Burial" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="1810" y="470" width="120" height="60" as="geometry" />
+        <mxCell id="Cbzbmh2egTgXPa3pGqjr-20" value="Heroic Challenger - Extra Sword" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Cbzbmh2egTgXPa3pGqjr-17">
+          <mxGeometry x="162.5" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s19yZ76gr4-OTxgtI--Y-3" value="Heroic Challenger - Double Lance" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1970" y="470" width="120" height="60" as="geometry" />
+        <mxCell id="Cbzbmh2egTgXPa3pGqjr-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="Cbzbmh2egTgXPa3pGqjr-17" source="Cbzbmh2egTgXPa3pGqjr-18" target="Cbzbmh2egTgXPa3pGqjr-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzbmh2egTgXPa3pGqjr-22" value="Level 4 XYZ" style="swimlane;" vertex="1" parent="Cbzbmh2egTgXPa3pGqjr-17">
+          <mxGeometry x="330" y="40" width="440" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzbmh2egTgXPa3pGqjr-23" value="Heroic Champion - Excalibur" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="Cbzbmh2egTgXPa3pGqjr-22">
+          <mxGeometry x="20" y="40" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzbmh2egTgXPa3pGqjr-24" value="Number 39: Utopia" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="Cbzbmh2egTgXPa3pGqjr-22">
+          <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzbmh2egTgXPa3pGqjr-25" value="Kachi Konchi Dragon" style="whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="Cbzbmh2egTgXPa3pGqjr-22">
+          <mxGeometry x="160" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzbmh2egTgXPa3pGqjr-26" value="Starliege Photon Blast Dragon" style="whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="Cbzbmh2egTgXPa3pGqjr-22">
+          <mxGeometry x="160" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzbmh2egTgXPa3pGqjr-27" value="Gem-Knight Pearl" style="whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="Cbzbmh2egTgXPa3pGqjr-22">
+          <mxGeometry x="20" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzbmh2egTgXPa3pGqjr-28" value="Photon Papilloperative" style="whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="Cbzbmh2egTgXPa3pGqjr-22">
+          <mxGeometry x="160" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzbmh2egTgXPa3pGqjr-29" value="Comics Hero King Arthur" style="whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="Cbzbmh2egTgXPa3pGqjr-22">
+          <mxGeometry x="295" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzbmh2egTgXPa3pGqjr-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cbzbmh2egTgXPa3pGqjr-30" target="s19yZ76gr4-OTxgtI--Y-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzbmh2egTgXPa3pGqjr-30" value="Graveyard" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="390" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="k3XtddSRICdn5ckGxZP9" name="Magikey">
-    <mxGraphModel dx="1711" dy="1055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2106" dy="1298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="J6CSg8eaZkPXc1e662Wj-4" value="&quot;Magikey&quot; monster or Normal Monster" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="460" y="30" width="740" height="370" as="geometry" />
+          <mxGeometry x="460" y="30" width="740" height="440" as="geometry" />
         </mxCell>
         <mxCell id="J6CSg8eaZkPXc1e662Wj-11" value="Earth" style="swimlane;" parent="J6CSg8eaZkPXc1e662Wj-4" vertex="1">
-          <mxGeometry x="20" y="40" width="160" height="180" as="geometry" />
+          <mxGeometry x="20" y="40" width="160" height="240" as="geometry" />
         </mxCell>
         <mxCell id="J6CSg8eaZkPXc1e662Wj-7" value="Gemini Elf" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="J6CSg8eaZkPXc1e662Wj-11" vertex="1">
           <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J6CSg8eaZkPXc1e662Wj-12" value="Gene-Warped Warwolf" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="J6CSg8eaZkPXc1e662Wj-11" vertex="1">
           <mxGeometry x="20" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qRR_ABUIVhB7q4Jd7qGk-5" value="Angel Trumpeter" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="J6CSg8eaZkPXc1e662Wj-11">
+          <mxGeometry x="20" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J6CSg8eaZkPXc1e662Wj-13" value="Water" style="swimlane;" parent="J6CSg8eaZkPXc1e662Wj-4" vertex="1">
           <mxGeometry x="200" y="40" width="160" height="180" as="geometry" />
@@ -555,7 +645,7 @@
           <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qbupHraFLRX2WD-IEX-6-6" value="Fire" style="swimlane;" parent="J6CSg8eaZkPXc1e662Wj-4" vertex="1">
-          <mxGeometry x="20" y="230" width="160" height="120" as="geometry" />
+          <mxGeometry x="20" y="300" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="J6CSg8eaZkPXc1e662Wj-9" value="Gunkan Suship Shari" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="qbupHraFLRX2WD-IEX-6-6" vertex="1">
           <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
@@ -563,11 +653,11 @@
         <mxCell id="qbupHraFLRX2WD-IEX-6-7" value="Wind" style="swimlane;" parent="J6CSg8eaZkPXc1e662Wj-4" vertex="1">
           <mxGeometry x="200" y="230" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="qbupHraFLRX2WD-IEX-6-8" value="Griffin..." style="whiteSpace=wrap;html=1;" parent="qbupHraFLRX2WD-IEX-6-7" vertex="1">
+        <mxCell id="qbupHraFLRX2WD-IEX-6-8" value="Phantom Gryphon" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="qbupHraFLRX2WD-IEX-6-7" vertex="1">
           <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UT5xL9TsgXSUPtzigOF4-6" value="Synchro" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="460" y="420" width="440" height="120" as="geometry" />
+          <mxGeometry x="1240" y="30" width="440" height="120" as="geometry" />
         </mxCell>
         <mxCell id="UT5xL9TsgXSUPtzigOF4-1" value="Clavkiys, the Magikey Skyblaster" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="UT5xL9TsgXSUPtzigOF4-6" vertex="1">
           <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
