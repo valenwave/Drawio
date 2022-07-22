@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-22T14:13:23.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="e-yk4V05wdcd9weLbMrK" version="20.1.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-07-22T16:13:56.567Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="egeDFeGoNNau--vZNnM4" version="20.2.0" type="github" pages="8">
   <diagram id="G-61WZPsZPxkNv4mN3Ph" name="Main">
-    <mxGraphModel dx="3141" dy="-1312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3069" dy="-1356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -293,12 +293,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mLjnwa9SdQJk_JFa5NNJ" name="Staples">
-    <mxGraphModel dx="1956" dy="-994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1190" dy="-1466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZogCDCk5BP9iSM4LsmMK-2" value="Generic Deck Search" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="790" y="2230" width="160" height="190" as="geometry" />
+          <mxGeometry x="20" y="2220" width="160" height="190" as="geometry" />
         </mxCell>
         <mxCell id="ZogCDCk5BP9iSM4LsmMK-3" value="Gold Sarcophagus" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="ZogCDCk5BP9iSM4LsmMK-2" vertex="1">
           <mxGeometry x="17" y="40" width="123" height="60" as="geometry" />
@@ -306,26 +306,8 @@
         <mxCell id="ZogCDCk5BP9iSM4LsmMK-4" value="Sales Pitch" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="ZogCDCk5BP9iSM4LsmMK-2" vertex="1">
           <mxGeometry x="18.5" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZogCDCk5BP9iSM4LsmMK-5" value="Generic Monster Support" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="20" y="2510" width="210" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="ZogCDCk5BP9iSM4LsmMK-6" value="Power of the Guardians" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="ZogCDCk5BP9iSM4LsmMK-5" vertex="1">
-          <mxGeometry x="45" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZogCDCk5BP9iSM4LsmMK-7" value="Generic Reborn" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="790" y="2440" width="160" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="ZogCDCk5BP9iSM4LsmMK-8" value="Monster Reborn" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="ZogCDCk5BP9iSM4LsmMK-7" vertex="1">
-          <mxGeometry x="16.5" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZogCDCk5BP9iSM4LsmMK-9" value="Call of the Haunted" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="ZogCDCk5BP9iSM4LsmMK-7" vertex="1">
-          <mxGeometry x="16.5" y="110" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZogCDCk5BP9iSM4LsmMK-10" value="Back to the Front" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="ZogCDCk5BP9iSM4LsmMK-7" vertex="1">
-          <mxGeometry x="16.5" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ZogCDCk5BP9iSM4LsmMK-11" value="Generic Deck Return" style="swimlane;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="610" y="2440" width="160" height="180" as="geometry" />
+          <mxGeometry x="200" y="2220" width="160" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ZogCDCk5BP9iSM4LsmMK-12" value="Reload" style="whiteSpace=wrap;html=1;" parent="ZogCDCk5BP9iSM4LsmMK-11" vertex="1">
           <mxGeometry x="20" y="100" width="120" height="60" as="geometry" />
@@ -334,7 +316,7 @@
           <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZogCDCk5BP9iSM4LsmMK-17" value="Stall" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="970" y="2230" width="380" height="390" as="geometry" />
+          <mxGeometry x="380" y="2220" width="380" height="390" as="geometry" />
         </mxCell>
         <mxCell id="ZogCDCk5BP9iSM4LsmMK-18" value="Pain Stall" style="swimlane;" parent="ZogCDCk5BP9iSM4LsmMK-17" vertex="1">
           <mxGeometry x="200" y="50" width="160" height="120" as="geometry" />
@@ -358,7 +340,7 @@
           <mxGeometry x="20" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZogCDCk5BP9iSM4LsmMK-25" value="Destruction" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="30" y="2750" width="780" height="660" as="geometry" />
+          <mxGeometry x="30" y="2630" width="780" height="660" as="geometry" />
         </mxCell>
         <mxCell id="ZogCDCk5BP9iSM4LsmMK-26" value="Front Row Destruction" style="swimlane;" parent="ZogCDCk5BP9iSM4LsmMK-25" vertex="1">
           <mxGeometry x="20" y="40" width="625" height="250" as="geometry" />
@@ -415,16 +397,16 @@
           <mxGeometry x="75" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZogCDCk5BP9iSM4LsmMK-44" value="Fairy Injection Lady" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="830" y="2820" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="2520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZogCDCk5BP9iSM4LsmMK-45" value="Blackwing - Gale the Whirlwind" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="960" y="2820" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="2520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZogCDCk5BP9iSM4LsmMK-46" value="Reasoning" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1090" y="2820" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="2450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZogCDCk5BP9iSM4LsmMK-47" value="Morphing Jar" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="830" y="2750" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="2450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
