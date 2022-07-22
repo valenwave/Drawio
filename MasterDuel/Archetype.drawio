@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-22T20:55:08.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="jwK2o_gBBb-RdCRYA4lw" version="20.2.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-07-22T21:14:51.492Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="6CcQOSZTvvIove6x5UA2" version="20.2.0" type="github" pages="6">
   <diagram id="nKGaeM0TSgJgjrBLLhOO" name="Blackwing">
     <mxGraphModel dx="1369" dy="1944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -595,7 +595,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="k3XtddSRICdn5ckGxZP9" name="Magikey">
-    <mxGraphModel dx="2106" dy="1298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1190" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -687,7 +687,7 @@
           <mxGeometry x="140" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uOeM7xrh9b_xjBoLv8GL-6" value="Graveyard" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="240" width="80" height="80" as="geometry" />
+          <mxGeometry x="20" y="250" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uOeM7xrh9b_xjBoLv8GL-7" value="Ritual" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="450" y="560" width="200" height="200" as="geometry" />
@@ -733,6 +733,12 @@
         </mxCell>
         <mxCell id="qRR_ABUIVhB7q4Jd7qGk-2" value="Normal Monster" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9YTjlJE6i0vCiAc4L15j-1" value="Light" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9YTjlJE6i0vCiAc4L15j-2" value="Dark" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="250" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
