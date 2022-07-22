@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-22T14:13:28.036Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="gEXFQ3TGgEBezT98aCx8" version="20.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-22T14:29:53.546Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="LP661I_ElQpP6iMpQ7l0" version="20.2.0" type="github" pages="3">
   <diagram id="zv8Aa9wL1IGIpkSlRC8T" name="Dragon">
-    <mxGraphModel dx="1369" dy="-2456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1711" dy="-2245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ktGTE_c1SDz5uOH07skm-1" value="Blue-Eyes White Dragon" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="48.5" y="3790" width="920" height="400" as="geometry">
+          <mxGeometry x="20" y="3600" width="920" height="400" as="geometry">
             <mxRectangle x="1680" y="1710" width="180" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -95,41 +95,13 @@
         <mxCell id="ktGTE_c1SDz5uOH07skm-20" value="Blue-Eyes Solid Dragon" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ktGTE_c1SDz5uOH07skm-1" vertex="1">
           <mxGeometry x="210" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ktGTE_c1SDz5uOH07skm-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ktGTE_c1SDz5uOH07skm-22" target="ktGTE_c1SDz5uOH07skm-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ktGTE_c1SDz5uOH07skm-22" value="Discard Engine" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="20" y="3480" width="600" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="0JxGeK7PizC5W6enQliI-1" value="Twin Twisters" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="ktGTE_c1SDz5uOH07skm-22" vertex="1">
-          <mxGeometry x="140" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TkjOUOhSY8arpm2TrO54-1" value="Pendulum Magician Discard Engine" style="swimlane;" parent="ktGTE_c1SDz5uOH07skm-22" vertex="1">
-          <mxGeometry x="280" y="40" width="300" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="TkjOUOhSY8arpm2TrO54-2" value="Pendulum Call" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="TkjOUOhSY8arpm2TrO54-1" vertex="1">
-          <mxGeometry x="90" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TkjOUOhSY8arpm2TrO54-3" value="Dragonpit Magician" style="whiteSpace=wrap;html=1;" parent="TkjOUOhSY8arpm2TrO54-1" vertex="1">
-          <mxGeometry x="160" y="150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TkjOUOhSY8arpm2TrO54-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="TkjOUOhSY8arpm2TrO54-1" source="TkjOUOhSY8arpm2TrO54-2" target="TkjOUOhSY8arpm2TrO54-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TkjOUOhSY8arpm2TrO54-5" value="Dragonpulse Magician" style="whiteSpace=wrap;html=1;" parent="TkjOUOhSY8arpm2TrO54-1" vertex="1">
-          <mxGeometry x="20" y="150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TkjOUOhSY8arpm2TrO54-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="TkjOUOhSY8arpm2TrO54-1" source="TkjOUOhSY8arpm2TrO54-2" target="TkjOUOhSY8arpm2TrO54-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2ZK7jNG9v2DSAAOjWctX-1" value="Cipher Twin Rapter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ktGTE_c1SDz5uOH07skm-22" vertex="1">
-          <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GI5gR9P13quGaoXbZktA-1" value="Galaxy Soldier" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="ktGTE_c1SDz5uOH07skm-22" vertex="1">
-          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="ktGTE_c1SDz5uOH07skm-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="p4ZIRHH7--aQvRXrMCGi-1" target="ktGTE_c1SDz5uOH07skm-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="291.5000000000002" y="3580" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="r15IYq8nVFfZDKdNq3Vh-1" value="Maiden with Eyes of Blue" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="353.5" y="4220" width="310" height="120" as="geometry" />
+          <mxGeometry x="325" y="4030" width="310" height="120" as="geometry" />
         </mxCell>
         <mxCell id="r15IYq8nVFfZDKdNq3Vh-2" value="Blue-Eyes White Dragon" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="r15IYq8nVFfZDKdNq3Vh-1" vertex="1">
           <mxGeometry x="160" y="40" width="123" height="60" as="geometry" />
@@ -142,9 +114,12 @@
         </mxCell>
         <mxCell id="r15IYq8nVFfZDKdNq3Vh-5" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="r15IYq8nVFfZDKdNq3Vh-1" target="ktGTE_c1SDz5uOH07skm-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="4090" as="sourcePoint" />
-            <mxPoint x="630" y="4040" as="targetPoint" />
+            <mxPoint x="551.5" y="3900" as="sourcePoint" />
+            <mxPoint x="601.5" y="3850" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="p4ZIRHH7--aQvRXrMCGi-1" value="Graveyard" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="251.5" y="3490" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
