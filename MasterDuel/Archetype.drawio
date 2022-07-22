@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-22T14:29:49.912Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="kKMp-USd9Ik1YmEkEIBv" version="20.2.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-07-22T16:06:23.306Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="WZ6Z6YX0RdbtgFnpdO06" version="20.2.0" type="github" pages="6">
   <diagram id="nKGaeM0TSgJgjrBLLhOO" name="Blackwing">
     <mxGraphModel dx="1369" dy="1944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -508,7 +508,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="k3XtddSRICdn5ckGxZP9" name="Magikey">
-    <mxGraphModel dx="1825" dy="1125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1956" dy="1206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -600,7 +600,7 @@
           <mxGeometry x="140" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uOeM7xrh9b_xjBoLv8GL-6" value="Graveyard" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="160" width="80" height="80" as="geometry" />
+          <mxGeometry x="40" y="240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uOeM7xrh9b_xjBoLv8GL-7" value="Ritual" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="450" y="560" width="200" height="200" as="geometry" />
@@ -612,16 +612,37 @@
           <mxGeometry x="990" y="490" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="uOeM7xrh9b_xjBoLv8GL-10" value="Warrior" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="160" width="80" height="80" as="geometry" />
+          <mxGeometry x="200" y="160" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EH2oKgrsWkuopbpP2Q7I-3" value="Monster" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="160" width="80" height="80" as="geometry" />
+          <mxGeometry x="40" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tdmh4_cuZucrNtdNP20V-6" value="Link" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="160" y="820" width="430" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tdmh4_cuZucrNtdNP20V-1" value="Mekk-Knight Crusadia Avramax" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="tdmh4_cuZucrNtdNP20V-6">
+          <mxGeometry x="290" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tdmh4_cuZucrNtdNP20V-2" value="Link Spider" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="tdmh4_cuZucrNtdNP20V-6">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tdmh4_cuZucrNtdNP20V-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tdmh4_cuZucrNtdNP20V-6" source="tdmh4_cuZucrNtdNP20V-3" target="tdmh4_cuZucrNtdNP20V-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tdmh4_cuZucrNtdNP20V-3" value="Crystron Halqifibrax" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="tdmh4_cuZucrNtdNP20V-6">
+          <mxGeometry x="155" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tdmh4_cuZucrNtdNP20V-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tdmh4_cuZucrNtdNP20V-6" source="tdmh4_cuZucrNtdNP20V-2" target="tdmh4_cuZucrNtdNP20V-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qRR_ABUIVhB7q4Jd7qGk-1" value="Tuner" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="G52r87CLR_I04fMwUl3z" name="Mist Valley">
-    <mxGraphModel dx="1182" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1369" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
