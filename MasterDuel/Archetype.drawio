@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-21T14:32:58.160Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="rMGox0I4aU-Ysmb1fvJV" version="20.1.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-07-22T14:06:07.887Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Pii8DkGoXd5PBzDgyqy-" version="20.1.4" type="github" pages="6">
   <diagram id="nKGaeM0TSgJgjrBLLhOO" name="Blackwing">
     <mxGraphModel dx="1369" dy="1944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -528,7 +528,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="k3XtddSRICdn5ckGxZP9" name="Magikey">
-    <mxGraphModel dx="1611" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1245" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -595,36 +595,6 @@
         <mxCell id="qbupHraFLRX2WD-IEX-6-10" value="Heart of the Underdog" style="whiteSpace=wrap;html=1;" parent="J6CSg8eaZkPXc1e662Wj-8" vertex="1">
           <mxGeometry x="150" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J6CSg8eaZkPXc1e662Wj-20" value="Graveyard Support" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="520" y="630" width="650" height="380" as="geometry" />
-        </mxCell>
-        <mxCell id="qbupHraFLRX2WD-IEX-6-1" value="Deck to Graveyard" style="swimlane;" parent="J6CSg8eaZkPXc1e662Wj-20" vertex="1">
-          <mxGeometry x="20" y="30" width="200" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="J6CSg8eaZkPXc1e662Wj-21" value="Foolish Burial" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="qbupHraFLRX2WD-IEX-6-1" vertex="1">
-          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="qbupHraFLRX2WD-IEX-6-2" value="Armageddon Knight..." style="whiteSpace=wrap;html=1;" parent="qbupHraFLRX2WD-IEX-6-1" vertex="1">
-          <mxGeometry x="40" y="110" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="qbupHraFLRX2WD-IEX-6-3" value="Hand to Graveyard" style="swimlane;" parent="J6CSg8eaZkPXc1e662Wj-20" vertex="1">
-          <mxGeometry x="230" y="30" width="360" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="uOeM7xrh9b_xjBoLv8GL-2" value="Morphing Jar" style="whiteSpace=wrap;html=1;" vertex="1" parent="qbupHraFLRX2WD-IEX-6-3">
-          <mxGeometry x="30" y="100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uOeM7xrh9b_xjBoLv8GL-3" value="Raigeki Break" style="whiteSpace=wrap;html=1;" vertex="1" parent="qbupHraFLRX2WD-IEX-6-3">
-          <mxGeometry x="50" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uOeM7xrh9b_xjBoLv8GL-5" value="Dark Core" style="whiteSpace=wrap;html=1;" vertex="1" parent="qbupHraFLRX2WD-IEX-6-3">
-          <mxGeometry x="200" y="150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uOeM7xrh9b_xjBoLv8GL-4" value="Twin Twister" style="whiteSpace=wrap;html=1;" vertex="1" parent="qbupHraFLRX2WD-IEX-6-3">
-          <mxGeometry x="170" y="60" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uOeM7xrh9b_xjBoLv8GL-1" value="Card Destruction" style="whiteSpace=wrap;html=1;" vertex="1" parent="qbupHraFLRX2WD-IEX-6-3">
-          <mxGeometry x="20" y="30" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="J6CSg8eaZkPXc1e662Wj-25" value="Generic Monster Support" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="20" y="290" width="210" height="120" as="geometry" />
         </mxCell>
@@ -632,7 +602,7 @@
           <mxGeometry x="45" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qbupHraFLRX2WD-IEX-6-4" value="Riddable..." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UT5xL9TsgXSUPtzigOF4-6" value="Synchro" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="460" y="420" width="440" height="120" as="geometry" />
@@ -665,7 +635,19 @@
           <mxGeometry x="140" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uOeM7xrh9b_xjBoLv8GL-6" value="Graveyard Support" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="530" width="80" height="80" as="geometry" />
+          <mxGeometry x="280" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uOeM7xrh9b_xjBoLv8GL-7" value="Ritual" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="450" y="560" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="uOeM7xrh9b_xjBoLv8GL-8" value="XYZ" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="680" y="560" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="uOeM7xrh9b_xjBoLv8GL-9" value="Fusion" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="990" y="490" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="uOeM7xrh9b_xjBoLv8GL-10" value="Warrior Support" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="410" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
