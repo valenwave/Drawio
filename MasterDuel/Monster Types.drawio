@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-22T14:06:29.238Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="19g5jXcPW_xmDuV0VcaW" version="20.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-22T14:06:58.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="2WPOF2CsXuiVSlsVhEFc" version="20.1.4" type="github" pages="3">
   <diagram id="zv8Aa9wL1IGIpkSlRC8T" name="Dragon">
     <mxGraphModel dx="1369" dy="-2456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -192,6 +192,12 @@
             <mxPoint x="2230" y="1500" as="sourcePoint" />
             <mxPoint x="2330" y="1500" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="g3G3fKLFa_LotONrqyEx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="g3G3fKLFa_LotONrqyEx-5" target="g3G3fKLFa_LotONrqyEx-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g3G3fKLFa_LotONrqyEx-5" value="Armageddon Knight" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="1530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
