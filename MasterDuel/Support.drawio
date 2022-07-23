@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-07-23T13:54:15.969Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="crVvaQu-LPbknVAS5pH7" version="20.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-23T21:03:10.725Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="BMj6SBOSC6nrQPnRsjzV" version="20.2.0" type="github" pages="7">
   <diagram id="OoVfKozZZP19OXvTra97" name="Monster">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1497" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rQL7H8hPHh0mbTXPi9bD-1" value="Normal Monster Support" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="20" y="20" width="290" height="200" as="geometry" />
+          <mxGeometry x="20" y="20" width="290" height="260" as="geometry" />
         </mxCell>
         <mxCell id="rQL7H8hPHh0mbTXPi9bD-2" value="Unexpected Dai" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="rQL7H8hPHh0mbTXPi9bD-1" vertex="1">
           <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
@@ -16,11 +16,14 @@
         <mxCell id="rQL7H8hPHh0mbTXPi9bD-3" value="Heart of the Underdog" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="rQL7H8hPHh0mbTXPi9bD-1" vertex="1">
           <mxGeometry x="150" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="waRzVCXTt-gT5jvSgv9V-1" value="Dragon Horn Hunter" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="rQL7H8hPHh0mbTXPi9bD-1">
+        <mxCell id="waRzVCXTt-gT5jvSgv9V-1" value="Dragon Horn Hunter" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="rQL7H8hPHh0mbTXPi9bD-1" vertex="1">
           <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="R7ZuBB_lxKhwf4n1fkfq-1" value="Lancephorhynchus" style="whiteSpace=wrap;html=1;" vertex="1" parent="rQL7H8hPHh0mbTXPi9bD-1">
+          <mxGeometry x="20" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="rQL7H8hPHh0mbTXPi9bD-4" value="Generic Monster Support" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="20" y="240" width="210" height="120" as="geometry" />
+          <mxGeometry x="20" y="300" width="210" height="120" as="geometry" />
         </mxCell>
         <mxCell id="rQL7H8hPHh0mbTXPi9bD-5" value="Power of the Guardians" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="rQL7H8hPHh0mbTXPi9bD-4" vertex="1">
           <mxGeometry x="45" y="40" width="120" height="60" as="geometry" />
