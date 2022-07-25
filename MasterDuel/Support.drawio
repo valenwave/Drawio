@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T12:45:33.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="xHnLDWXOJ2AhqRhjkYtY" version="20.2.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-07-25T12:47:13.681Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="TUg0BzNS2xbAKsXlHaCf" version="20.2.0" type="github" pages="7">
   <diagram id="OoVfKozZZP19OXvTra97" name="Monster">
     <mxGraphModel dx="1369" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -220,6 +220,47 @@
         </mxCell>
         <mxCell id="al7HE_oR9A0Hs1WTS6SA-1" value="Heavy Storm Duster" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="211.5" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="qJBUZddnq2_UY1P6pgQq" name="Power of Guardians">
+    <mxGraphModel dx="1611" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PvlPacYVZlxZyj_B5JLg-2" value="Power of the Guardians" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="640" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="PvlPacYVZlxZyj_B5JLg-3" value="All Monster Protection" style="swimlane;" vertex="1" parent="PvlPacYVZlxZyj_B5JLg-2">
+          <mxGeometry x="320" y="40" width="290" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PvlPacYVZlxZyj_B5JLg-4" value="Power of the Guardians" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="PvlPacYVZlxZyj_B5JLg-3">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PvlPacYVZlxZyj_B5JLg-5" value="Ring of Magnetism" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="PvlPacYVZlxZyj_B5JLg-3">
+          <mxGeometry x="150" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PvlPacYVZlxZyj_B5JLg-6" value="" style="shape=link;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PvlPacYVZlxZyj_B5JLg-3" source="PvlPacYVZlxZyj_B5JLg-4" target="PvlPacYVZlxZyj_B5JLg-5">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="50" y="-40" as="sourcePoint" />
+            <mxPoint x="150" y="-40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PvlPacYVZlxZyj_B5JLg-7" value="Inevitable Growth" style="swimlane;" vertex="1" parent="PvlPacYVZlxZyj_B5JLg-2">
+          <mxGeometry x="20" y="40" width="290" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PvlPacYVZlxZyj_B5JLg-8" value="Shield Wing" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="PvlPacYVZlxZyj_B5JLg-7">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PvlPacYVZlxZyj_B5JLg-9" value="Power of the Guardians" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="PvlPacYVZlxZyj_B5JLg-7">
+          <mxGeometry x="150" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PvlPacYVZlxZyj_B5JLg-10" value="" style="shape=link;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PvlPacYVZlxZyj_B5JLg-7" source="PvlPacYVZlxZyj_B5JLg-8" target="PvlPacYVZlxZyj_B5JLg-9">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="-150" y="-10" as="sourcePoint" />
+            <mxPoint x="-50" y="-10" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
