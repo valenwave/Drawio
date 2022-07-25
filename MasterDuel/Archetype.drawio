@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-23T21:03:14.944Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="cRWUNwbWv24m4D4hSeug" version="20.2.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-25T12:31:54.863Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="RRObhXCI33aCC5le2eet" version="20.2.0" type="github" pages="7">
   <diagram id="nKGaeM0TSgJgjrBLLhOO" name="Blackwing">
-    <mxGraphModel dx="1422" dy="1854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1369" dy="1944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -595,10 +595,16 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BaULeZ0oSPwjaKCFJL81" name="Live Twin">
-    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1369" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TToppO_Pk7Cx7JKHeA8r-1" value="Link" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TToppO_Pk7Cx7JKHeA8r-2" value="Fiend" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
