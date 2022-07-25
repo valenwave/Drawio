@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T12:36:14.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="xwMZ99OYZ8hy7-uLFdc2" version="20.2.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-07-25T12:45:33.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="xHnLDWXOJ2AhqRhjkYtY" version="20.2.0" type="github" pages="6">
   <diagram id="OoVfKozZZP19OXvTra97" name="Monster">
     <mxGraphModel dx="1369" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -220,84 +220,6 @@
         </mxCell>
         <mxCell id="al7HE_oR9A0Hs1WTS6SA-1" value="Heavy Storm Duster" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="211.5" y="540" width="120" height="60" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="2aMLlW2ePKMbcehhqOU3" name="Synchro 8">
-    <mxGraphModel dx="1369" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="pckeIvQc57LW_Qel7WyQ-1" value="Stardust Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="20" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pckeIvQc57LW_Qel7WyQ-3" value="Warrior" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="200" y="20" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="pckeIvQc57LW_Qel7WyQ-2" value="Colossal Fighter" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="pckeIvQc57LW_Qel7WyQ-3" vertex="1">
-          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pckeIvQc57LW_Qel7WyQ-6" value="Light &amp; Dark" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="20" y="20" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="pckeIvQc57LW_Qel7WyQ-5" value="Chaos Ruler, the Chaotic Magical Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="pckeIvQc57LW_Qel7WyQ-6" vertex="1">
-          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pckeIvQc57LW_Qel7WyQ-7" value="Stardust Spark Dragon" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
-          <mxGeometry x="20" y="220" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pckeIvQc57LW_Qel7WyQ-8" value="Avenging Knight Parshath" style="whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
-          <mxGeometry x="20" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pckeIvQc57LW_Qel7WyQ-10" value="&quot;Magician&quot; Pendulum" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="380" y="20" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="pckeIvQc57LW_Qel7WyQ-9" value="Enlightenment Paladin" style="whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="pckeIvQc57LW_Qel7WyQ-10" vertex="1">
-          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="eUP7hz5ABdGM_lNF9eEY" name="XYZ 4">
-    <mxGraphModel dx="1369" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="SzMmLPHH2IKvx85HZgtX-3" value="Kachi Kochi Dragon" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
-          <mxGeometry x="40" y="110" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SzMmLPHH2IKvx85HZgtX-5" value="Number" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="320" y="20" width="160" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="SzMmLPHH2IKvx85HZgtX-1" value="Number 39: Utopia" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="SzMmLPHH2IKvx85HZgtX-5" vertex="1">
-          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SzMmLPHH2IKvx85HZgtX-4" value="Number 106: Giant Hand" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="SzMmLPHH2IKvx85HZgtX-5" vertex="1">
-          <mxGeometry x="20" y="100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SzMmLPHH2IKvx85HZgtX-7" value="Number 103: Ragnazero" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="SzMmLPHH2IKvx85HZgtX-5" vertex="1">
-          <mxGeometry x="20" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SzMmLPHH2IKvx85HZgtX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SzMmLPHH2IKvx85HZgtX-8" target="SzMmLPHH2IKvx85HZgtX-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SzMmLPHH2IKvx85HZgtX-8" value="Astral Kuriboh" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="180" y="110" width="120" height="60" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="Ut46HScgp1Se_AjRCASP" name="Link">
-    <mxGraphModel dx="1369" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="N2yEgNn4llbfly753ONx-1" value="Crackdown" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="N2yEgNn4llbfly753ONx-2" value="Unchained Abomination" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
-          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
