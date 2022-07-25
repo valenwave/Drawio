@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T12:47:23.965Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="YxINRASN-AtFCgku7L2_" version="20.2.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-25T17:33:45.940Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="DVXYg1OVWRDYn9m9nKNo" version="20.2.0" type="github" pages="7">
   <diagram id="G-61WZPsZPxkNv4mN3Ph" name="Main">
     <mxGraphModel dx="3069" dy="-1356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2871,11 +2871,8 @@
         <mxCell id="_o-j13Pe3TMMez-3fPW3-2" value="Altergeist Multifaker" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="230" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_o-j13Pe3TMMez-3fPW3-3" value="Evil Twins Ki-sikil &amp;amp; Lil-la" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="290" y="680" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_o-j13Pe3TMMez-3fPW3-4" value="Secret Password" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="440" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="Yb3-HcEMP7Tf-Qdv_eOj-2" value="Live Twins" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
