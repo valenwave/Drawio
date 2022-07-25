@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T12:33:25.921Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="-wGfovdAlS0E1HXSsMQw" version="20.2.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-07-25T12:36:14.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="xwMZ99OYZ8hy7-uLFdc2" version="20.2.0" type="github" pages="9">
   <diagram id="OoVfKozZZP19OXvTra97" name="Monster">
     <mxGraphModel dx="1369" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -121,6 +121,53 @@
         </mxCell>
         <mxCell id="zVy1A3_LeAhqffGLlYCz-2" value="Sadion, the Timelord" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QnMWtF5KrqK0FYUh_TBK" name="Stall">
+    <mxGraphModel dx="1141" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rAXfOTA7ZakSZnf3as3c-16" value="Stall" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="380" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="rAXfOTA7ZakSZnf3as3c-17" value="Pain Stall" style="swimlane;" vertex="1" parent="rAXfOTA7ZakSZnf3as3c-16">
+          <mxGeometry x="200" y="50" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rAXfOTA7ZakSZnf3as3c-18" value="Kuriphoton" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="rAXfOTA7ZakSZnf3as3c-17">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rAXfOTA7ZakSZnf3as3c-19" value="Generic Stall" style="swimlane;startSize=23;" vertex="1" parent="rAXfOTA7ZakSZnf3as3c-16">
+          <mxGeometry x="20" y="50" width="165" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="rAXfOTA7ZakSZnf3as3c-20" value="Swords of Revealing Light" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="rAXfOTA7ZakSZnf3as3c-19">
+          <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rAXfOTA7ZakSZnf3as3c-21" value="Performapal Kuribohble" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="rAXfOTA7ZakSZnf3as3c-19">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rAXfOTA7ZakSZnf3as3c-22" value="Scrap Iron Scarecrow" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="rAXfOTA7ZakSZnf3as3c-19">
+          <mxGeometry x="20" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rAXfOTA7ZakSZnf3as3c-23" value="Threatening Roar" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="rAXfOTA7ZakSZnf3as3c-19">
+          <mxGeometry x="20" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rAXfOTA7ZakSZnf3as3c-24" value="Performapal Rainbow-Five Magician" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="rAXfOTA7ZakSZnf3as3c-16">
+          <mxGeometry x="220" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rAXfOTA7ZakSZnf3as3c-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rAXfOTA7ZakSZnf3as3c-26" target="rAXfOTA7ZakSZnf3as3c-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rAXfOTA7ZakSZnf3as3c-26" value="Photon Lizard" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rAXfOTA7ZakSZnf3as3c-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rAXfOTA7ZakSZnf3as3c-28" target="rAXfOTA7ZakSZnf3as3c-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rAXfOTA7ZakSZnf3as3c-28" value="Performapal Skullcrobat Joker" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="440" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
