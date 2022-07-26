@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T12:26:39.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="3Od-BxOmuBw57yHAxdDm" version="20.2.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-07-26T12:36:47.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="jsGqCUxMTBpBLGqtbGeY" version="20.2.0" type="github" pages="9">
   <diagram id="GCSwSArWJtqAE6xZ00EX" name="Adventure Token">
     <mxGraphModel dx="1369" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1044,50 +1044,56 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WVlDvQxbQF9uVYgHu2Dt-16" value="Noble Knight" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="WVlDvQxbQF9uVYgHu2Dt-16" value="Noble Knight" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="420" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="WVlDvQxbQF9uVYgHu2Dt-17" value="Noble Knight Predur" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WVlDvQxbQF9uVYgHu2Dt-16">
+        <mxCell id="WVlDvQxbQF9uVYgHu2Dt-17" value="Noble Knight Predur" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WVlDvQxbQF9uVYgHu2Dt-16" vertex="1">
           <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WVlDvQxbQF9uVYgHu2Dt-18" value="Noble Knight Pellinore" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WVlDvQxbQF9uVYgHu2Dt-16">
+        <mxCell id="WVlDvQxbQF9uVYgHu2Dt-18" value="Noble Knight Pellinore" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WVlDvQxbQF9uVYgHu2Dt-16" vertex="1">
           <mxGeometry x="140" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WVlDvQxbQF9uVYgHu2Dt-19" value="Noble Knight Gwalchavad" style="whiteSpace=wrap;html=1;" vertex="1" parent="WVlDvQxbQF9uVYgHu2Dt-16">
+        <mxCell id="WVlDvQxbQF9uVYgHu2Dt-19" value="Noble Knight Gwalchavad" style="whiteSpace=wrap;html=1;" parent="WVlDvQxbQF9uVYgHu2Dt-16" vertex="1">
           <mxGeometry x="20" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WVlDvQxbQF9uVYgHu2Dt-20" value="Noble Knight Custennin" style="whiteSpace=wrap;html=1;" vertex="1" parent="WVlDvQxbQF9uVYgHu2Dt-16">
+        <mxCell id="WVlDvQxbQF9uVYgHu2Dt-20" value="Noble Knight Custennin" style="whiteSpace=wrap;html=1;" parent="WVlDvQxbQF9uVYgHu2Dt-16" vertex="1">
           <mxGeometry x="140" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WVlDvQxbQF9uVYgHu2Dt-21" value="Noble Knight Iyvanne" style="whiteSpace=wrap;html=1;" vertex="1" parent="WVlDvQxbQF9uVYgHu2Dt-16">
+        <mxCell id="WVlDvQxbQF9uVYgHu2Dt-21" value="Noble Knight Iyvanne" style="whiteSpace=wrap;html=1;" parent="WVlDvQxbQF9uVYgHu2Dt-16" vertex="1">
           <mxGeometry x="260" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WVlDvQxbQF9uVYgHu2Dt-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WVlDvQxbQF9uVYgHu2Dt-23" target="WVlDvQxbQF9uVYgHu2Dt-16">
+        <mxCell id="WVlDvQxbQF9uVYgHu2Dt-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WVlDvQxbQF9uVYgHu2Dt-23" target="WVlDvQxbQF9uVYgHu2Dt-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WVlDvQxbQF9uVYgHu2Dt-23" value="Horse of the Floral Knights" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="510" y="125" width="120" height="60" as="geometry" />
+        <mxCell id="WVlDvQxbQF9uVYgHu2Dt-23" value="Horse of the Floral Knights" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="510" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WVlDvQxbQF9uVYgHu2Dt-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WVlDvQxbQF9uVYgHu2Dt-25" target="WVlDvQxbQF9uVYgHu2Dt-16">
+        <mxCell id="WVlDvQxbQF9uVYgHu2Dt-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WVlDvQxbQF9uVYgHu2Dt-25" target="WVlDvQxbQF9uVYgHu2Dt-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WVlDvQxbQF9uVYgHu2Dt-25" value="Merlin" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="510" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="WVlDvQxbQF9uVYgHu2Dt-25" value="Merlin" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="510" y="285" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WVlDvQxbQF9uVYgHu2Dt-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WVlDvQxbQF9uVYgHu2Dt-27" target="WVlDvQxbQF9uVYgHu2Dt-16">
+        <mxCell id="WVlDvQxbQF9uVYgHu2Dt-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="WVlDvQxbQF9uVYgHu2Dt-27" target="WVlDvQxbQF9uVYgHu2Dt-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WVlDvQxbQF9uVYgHu2Dt-27" value="Gwenhwyfar, Queen of Noble Arms" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="WVlDvQxbQF9uVYgHu2Dt-27" value="Gwenhwyfar, Queen of Noble Arms" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="190" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WVlDvQxbQF9uVYgHu2Dt-28" value="Infernoble Knight - Roland" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="660" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="WVlDvQxbQF9uVYgHu2Dt-28" value="Infernoble Knight - Roland" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="510" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WVlDvQxbQF9uVYgHu2Dt-29" value="Infernoble Knight Captain Roland" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="660" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="WVlDvQxbQF9uVYgHu2Dt-29" value="Infernoble Knight Captain Roland" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="510" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WVlDvQxbQF9uVYgHu2Dt-30" value="Noble Arms" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WVlDvQxbQF9uVYgHu2Dt-30" value="Noble Arms" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R3cQpAmikwMeJQrX03cO-1" value="Light" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R3cQpAmikwMeJQrX03cO-2" value="Dark" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="715" y="40" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
