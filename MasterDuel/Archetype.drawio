@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T18:57:29.832Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="OX5Bk9g0qUDPjIphK70H" version="20.2.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-07-26T19:03:55.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="RuUpzWtZ0fzC54c7jeO8" version="20.2.1" type="github" pages="10">
   <diagram id="GCSwSArWJtqAE6xZ00EX" name="Adventure Token">
-    <mxGraphModel dx="1369" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="944" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,6 +56,9 @@
         <mxCell id="A58bLByZXZ_W331Bdj4T-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="A58bLByZXZ_W331Bdj4T-15" target="A58bLByZXZ_W331Bdj4T-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="qEL4A2o5Rj72KeJ-55Fw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A58bLByZXZ_W331Bdj4T-15" target="A58bLByZXZ_W331Bdj4T-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A58bLByZXZ_W331Bdj4T-15" value="Fateful Adventure" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="255" y="430" width="120" height="60" as="geometry" />
         </mxCell>
@@ -88,6 +91,17 @@
             <mxPoint x="230" y="390" as="sourcePoint" />
             <mxPoint x="330" y="390" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yCN277_x8tLkqwxnRDHB" name="Altergeist">
+    <mxGraphModel dx="1369" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vR89tFnPIPQHtjrUNC_y-1" value="Trap" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
