@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T12:36:47.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="jsGqCUxMTBpBLGqtbGeY" version="20.2.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-07-26T18:57:29.832Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="OX5Bk9g0qUDPjIphK70H" version="20.2.0" type="github" pages="9">
   <diagram id="GCSwSArWJtqAE6xZ00EX" name="Adventure Token">
     <mxGraphModel dx="1369" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -88,9 +88,6 @@
             <mxPoint x="230" y="390" as="sourcePoint" />
             <mxPoint x="330" y="390" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Qd0n1Sa40xyB0AVhfmrH-1" value="Noble Knight" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="520" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
