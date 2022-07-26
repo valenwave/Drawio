@@ -1,6 +1,99 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T01:36:03.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="P8JtKv7lkgzyOlh8ipFv" version="20.2.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-26T02:58:50.584Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="za4XyGKiycgTk9r5gjCL" version="20.2.0" type="github" pages="8">
+  <diagram id="GCSwSArWJtqAE6xZ00EX" name="Adventure Token">
+    <mxGraphModel dx="1673" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="A58bLByZXZ_W331Bdj4T-2" value="Control &quot;Adventurer Token&quot;" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="290" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="A58bLByZXZ_W331Bdj4T-19" value="Breath of Resurrection" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="A58bLByZXZ_W331Bdj4T-2">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A58bLByZXZ_W331Bdj4T-1" value="Thunder Discharge" style="whiteSpace=wrap;html=1;" vertex="1" parent="A58bLByZXZ_W331Bdj4T-2">
+          <mxGeometry x="150" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A58bLByZXZ_W331Bdj4T-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A58bLByZXZ_W331Bdj4T-3" target="A58bLByZXZ_W331Bdj4T-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="259.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A58bLByZXZ_W331Bdj4T-4" value="Monster Mentions &quot;Adventurer Token&quot;" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="510" y="170" width="290" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="A58bLByZXZ_W331Bdj4T-12" value="Wandering Gryphon Rider" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="A58bLByZXZ_W331Bdj4T-4">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A58bLByZXZ_W331Bdj4T-13" value="Water Enchantress of the Temple" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="A58bLByZXZ_W331Bdj4T-4">
+          <mxGeometry x="150" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A58bLByZXZ_W331Bdj4T-14" value="Magicore Warrior of the Relics" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="A58bLByZXZ_W331Bdj4T-4">
+          <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A58bLByZXZ_W331Bdj4T-5" value="Zaralaam the Dark Palace" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A58bLByZXZ_W331Bdj4T-6" value="" style="shape=link;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A58bLByZXZ_W331Bdj4T-5" target="A58bLByZXZ_W331Bdj4T-3">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="130" y="200" as="sourcePoint" />
+            <mxPoint x="230" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A58bLByZXZ_W331Bdj4T-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A58bLByZXZ_W331Bdj4T-8" target="A58bLByZXZ_W331Bdj4T-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="259.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A58bLByZXZ_W331Bdj4T-10" value="Forest of Lost Flowers" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A58bLByZXZ_W331Bdj4T-11" value="" style="shape=link;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A58bLByZXZ_W331Bdj4T-10" target="A58bLByZXZ_W331Bdj4T-8">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="190" y="130" as="sourcePoint" />
+            <mxPoint x="290" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A58bLByZXZ_W331Bdj4T-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="A58bLByZXZ_W331Bdj4T-15" target="A58bLByZXZ_W331Bdj4T-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A58bLByZXZ_W331Bdj4T-15" value="Fateful Adventure" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="255" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A58bLByZXZ_W331Bdj4T-16" value="Equip Spell" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A58bLByZXZ_W331Bdj4T-17" value="Equip Spell that mentions &quot;Adventurer Token&quot;" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="150" y="160" width="330" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="A58bLByZXZ_W331Bdj4T-3" value="Dunnell, the Noble Arms of Light" style="whiteSpace=wrap;html=1;" vertex="1" parent="A58bLByZXZ_W331Bdj4T-17">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A58bLByZXZ_W331Bdj4T-8" value="Starlit Papillon" style="whiteSpace=wrap;html=1;" vertex="1" parent="A58bLByZXZ_W331Bdj4T-17">
+          <mxGeometry x="20" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A58bLByZXZ_W331Bdj4T-20" value="" style="shape=link;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A58bLByZXZ_W331Bdj4T-15" target="A58bLByZXZ_W331Bdj4T-16">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="220" y="290" as="sourcePoint" />
+            <mxPoint x="320" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A58bLByZXZ_W331Bdj4T-21" value="Dracoback, the Rideable Dragon" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A58bLByZXZ_W331Bdj4T-22" value="Normal Monster" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A58bLByZXZ_W331Bdj4T-23" value="" style="shape=link;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A58bLByZXZ_W331Bdj4T-21" target="A58bLByZXZ_W331Bdj4T-22">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="230" y="390" as="sourcePoint" />
+            <mxPoint x="330" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="nKGaeM0TSgJgjrBLLhOO" name="Blackwing">
-    <mxGraphModel dx="844" dy="1778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
