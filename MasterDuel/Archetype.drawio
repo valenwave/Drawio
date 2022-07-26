@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T19:28:00.335Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="FCR5rUtOtD5TWDSHcpxM" version="20.2.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-26T01:31:52.973Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Sdgk8JmuMLn4_dBfkRsY" version="20.2.0" type="github" pages="7">
   <diagram id="nKGaeM0TSgJgjrBLLhOO" name="Blackwing">
-    <mxGraphModel dx="1369" dy="1944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="844" dy="1778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -595,7 +595,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BaULeZ0oSPwjaKCFJL81" name="Live Twin">
-    <mxGraphModel dx="1369" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="1043" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -608,8 +608,76 @@
         <mxCell id="TToppO_Pk7Cx7JKHeA8r-3" value="Stall" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="40" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GtQ3rYEnNX1rCEYdKLkl-1" value="Evil Twin Present" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="160" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="Ip4tpjNP50wk3jruqDCw-12" value="Evil Twins Ki-sikil &amp;amp; Lil-la" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="180" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ip4tpjNP50wk3jruqDCw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ip4tpjNP50wk3jruqDCw-13" target="Ip4tpjNP50wk3jruqDCw-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ip4tpjNP50wk3jruqDCw-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ip4tpjNP50wk3jruqDCw-13" target="Ip4tpjNP50wk3jruqDCw-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ip4tpjNP50wk3jruqDCw-13" value="Secret Password" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="50" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ip4tpjNP50wk3jruqDCw-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ip4tpjNP50wk3jruqDCw-16" target="Ip4tpjNP50wk3jruqDCw-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ip4tpjNP50wk3jruqDCw-17" value="Live Twin" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="480" y="515" width="310" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Ip4tpjNP50wk3jruqDCw-1" value="Live Twin Ki-sikil" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Ip4tpjNP50wk3jruqDCw-17">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ip4tpjNP50wk3jruqDCw-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ip4tpjNP50wk3jruqDCw-17" source="Ip4tpjNP50wk3jruqDCw-3" target="Ip4tpjNP50wk3jruqDCw-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ip4tpjNP50wk3jruqDCw-3" value="Live Twin Lil-la" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Ip4tpjNP50wk3jruqDCw-17">
+          <mxGeometry x="170" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ip4tpjNP50wk3jruqDCw-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ip4tpjNP50wk3jruqDCw-17" source="Ip4tpjNP50wk3jruqDCw-1" target="Ip4tpjNP50wk3jruqDCw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ip4tpjNP50wk3jruqDCw-6" value="Live Twin Lil-la Treat" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Ip4tpjNP50wk3jruqDCw-17">
+          <mxGeometry x="20" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ip4tpjNP50wk3jruqDCw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ip4tpjNP50wk3jruqDCw-17" source="Ip4tpjNP50wk3jruqDCw-1" target="Ip4tpjNP50wk3jruqDCw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ip4tpjNP50wk3jruqDCw-7" value="Live Twin Ki-sikil Frost" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Ip4tpjNP50wk3jruqDCw-17">
+          <mxGeometry x="170" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ip4tpjNP50wk3jruqDCw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Ip4tpjNP50wk3jruqDCw-17" source="Ip4tpjNP50wk3jruqDCw-3" target="Ip4tpjNP50wk3jruqDCw-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ip4tpjNP50wk3jruqDCw-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ip4tpjNP50wk3jruqDCw-21" target="Ip4tpjNP50wk3jruqDCw-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ip4tpjNP50wk3jruqDCw-24" value="Live Twin or Evil Twin Spell/Trap" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="130" y="450" width="300" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="GtQ3rYEnNX1rCEYdKLkl-1" value="Evil Twin Present" style="whiteSpace=wrap;html=1;" parent="Ip4tpjNP50wk3jruqDCw-24" vertex="1">
+          <mxGeometry x="15" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ip4tpjNP50wk3jruqDCw-11" value="Evil Twin Challenge" style="whiteSpace=wrap;html=1;" vertex="1" parent="Ip4tpjNP50wk3jruqDCw-24">
+          <mxGeometry x="15" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ip4tpjNP50wk3jruqDCw-15" value="Evil Twin GG EZ" style="whiteSpace=wrap;html=1;" vertex="1" parent="Ip4tpjNP50wk3jruqDCw-24">
+          <mxGeometry x="15" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ip4tpjNP50wk3jruqDCw-16" value="Live Twin Sunny&#39;s Snitch" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="Ip4tpjNP50wk3jruqDCw-24">
+          <mxGeometry x="150" y="65" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ip4tpjNP50wk3jruqDCw-20" value="Live Twin Channel" style="whiteSpace=wrap;html=1;" vertex="1" parent="Ip4tpjNP50wk3jruqDCw-24">
+          <mxGeometry x="15" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ip4tpjNP50wk3jruqDCw-21" value="Live Twin Home" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="Ip4tpjNP50wk3jruqDCw-24">
+          <mxGeometry x="150" y="205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ip4tpjNP50wk3jruqDCw-23" value="Discard" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Ip4tpjNP50wk3jruqDCw-24">
+          <mxGeometry x="170" y="275" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
