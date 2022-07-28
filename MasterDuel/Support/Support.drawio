@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T17:37:51.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Vr-kqUWMSrG7JflyyjyT" version="20.2.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-07-28T17:38:21.391Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="QQBZsqi22_pu4WYt7x45" version="20.2.2" type="github" pages="4">
   <diagram id="k3XtddSRICdn5ckGxZP9" name="Graveyard">
     <mxGraphModel dx="1369" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qbupHraFLRX2WD-IEX-6-1" value="Deck to Graveyard" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="20" y="20" width="160" height="200" as="geometry" />
+          <mxGeometry x="40" y="40" width="160" height="200" as="geometry" />
         </mxCell>
         <mxCell id="J6CSg8eaZkPXc1e662Wj-21" value="Foolish Burial" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="qbupHraFLRX2WD-IEX-6-1" vertex="1">
           <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qbupHraFLRX2WD-IEX-6-3" value="Hand to Graveyard" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="300" y="20" width="480" height="410" as="geometry" />
+          <mxGeometry x="320" y="40" width="480" height="410" as="geometry" />
         </mxCell>
         <mxCell id="uOeM7xrh9b_xjBoLv8GL-2" value="Morphing Jar" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="qbupHraFLRX2WD-IEX-6-3" vertex="1">
           <mxGeometry x="15" y="40" width="120" height="60" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z9cp1-32GliG2KIltxgq-1" value="Generic Reborn" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="620" y="490" width="160" height="260" as="geometry" />
+          <mxGeometry x="640" y="480" width="160" height="260" as="geometry" />
         </mxCell>
         <mxCell id="Z9cp1-32GliG2KIltxgq-2" value="Monster Reborn" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="Z9cp1-32GliG2KIltxgq-1" vertex="1">
           <mxGeometry x="16.5" y="40" width="120" height="60" as="geometry" />
