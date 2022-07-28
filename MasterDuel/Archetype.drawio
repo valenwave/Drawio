@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T15:36:57.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="aDAKZAguiywXRtrkhj8u" version="20.2.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-07-28T17:27:23.745Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="86_LKAxGgZeWt_82DogM" version="20.2.2" type="github" pages="10">
   <diagram id="GCSwSArWJtqAE6xZ00EX" name="Adventure Token">
     <mxGraphModel dx="1369" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -96,7 +96,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yCN277_x8tLkqwxnRDHB" name="Altergeist">
-    <mxGraphModel dx="1369" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="944" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -149,13 +149,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dDeZeiOfrCmaO4HcSkGn-2" value="Altergeist Multifaker" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="180" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dDeZeiOfrCmaO4HcSkGn-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dDeZeiOfrCmaO4HcSkGn-6" target="dDeZeiOfrCmaO4HcSkGn-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dDeZeiOfrCmaO4HcSkGn-6" value="Altergeist Marionetter" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="320" y="1010" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dDeZeiOfrCmaO4HcSkGn-7" value="&quot;Atergeist&quot; Trap" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="555" y="720" width="280" height="300" as="geometry" />
@@ -182,7 +182,7 @@
           <mxGeometry x="20" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dDeZeiOfrCmaO4HcSkGn-10" value="&quot;Altergeist&quot; monster, except &quot;Altergeist Multifaker&quot;" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="40" y="720" width="400" height="260" as="geometry" />
+          <mxGeometry x="40" y="740" width="400" height="260" as="geometry" />
         </mxCell>
         <mxCell id="dDeZeiOfrCmaO4HcSkGn-13" value="Altergeist Marionetter" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="dDeZeiOfrCmaO4HcSkGn-10" vertex="1">
           <mxGeometry x="19.25" y="40" width="120" height="60" as="geometry" />
@@ -209,7 +209,7 @@
           <mxGeometry x="260.75" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cwAPXJcV9ijmGMXJqpjq-22" value="Extra Deck" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="435" y="400" width="400" height="310" as="geometry" />
+          <mxGeometry x="435" y="395" width="400" height="310" as="geometry" />
         </mxCell>
         <mxCell id="dDeZeiOfrCmaO4HcSkGn-18" value="Altergeist Memorygant" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="cwAPXJcV9ijmGMXJqpjq-22" vertex="1">
           <mxGeometry x="125.75" y="50" width="120" height="60" as="geometry" />
@@ -231,6 +231,30 @@
         </mxCell>
         <mxCell id="cwAPXJcV9ijmGMXJqpjq-11" value="Altergeist Kidolga" style="whiteSpace=wrap;html=1;" parent="cwAPXJcV9ijmGMXJqpjq-22" vertex="1">
           <mxGeometry x="125.75" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eS31H5UeVmtCURLwBYkp-1" value="Altergeist Fifinellag" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eS31H5UeVmtCURLwBYkp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eS31H5UeVmtCURLwBYkp-2" target="eS31H5UeVmtCURLwBYkp-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS31H5UeVmtCURLwBYkp-2" value="Tuner" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eS31H5UeVmtCURLwBYkp-4" value="Increase Link count" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="280" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="eS31H5UeVmtCURLwBYkp-5" value="Altergeist Kunquery" style="whiteSpace=wrap;html=1;" vertex="1" parent="eS31H5UeVmtCURLwBYkp-4">
+          <mxGeometry x="20" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eS31H5UeVmtCURLwBYkp-7" value="Altergeist Fijialert" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="eS31H5UeVmtCURLwBYkp-4">
+          <mxGeometry x="20" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eS31H5UeVmtCURLwBYkp-8" value="Altergeist Pookuery" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="eS31H5UeVmtCURLwBYkp-4">
+          <mxGeometry x="140" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eS31H5UeVmtCURLwBYkp-9" value="Altergeist Multifaker" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="eS31H5UeVmtCURLwBYkp-4">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
