@@ -1,1 +1,130 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T17:35:19.312Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="fb8g8njtpr0O-D9U_85N" version="20.2.2" type="github" pages="5"><diagram id="OoVfKozZZP19OXvTra97" name="Monster">1Zhdc6IwFIZ/jZed4UvUy1WqzqztuLX262YnQiBpIYeGILK/foNGxYHVul21y4UkbwKB5z0JxzTMXrQYcBSTG/Bw2DA0b9EwnYZh6KbdkadCyVdK27JWQsCppzpthQn9hZWoKTWlHk52OgqAUNB4V3SBMeyKHQ1xDtluNx/C3VFjFOCKMHFRWFUfqSeIeoumttWHmAZkPbKuqZYIrTsrISHIg6wkmdcNs8cBxKoULXo4LOCtuayu6/+hdfNgHDPxkQv4j1Fr2CbjIdGi2f3TmHZmzpW6yxyFqXrhW+ARKq67AZYIzGVpksYxcKFeQ+RrNklGoxAxWetWH2Z9Z8wFXpQk9XADDBEWPJddVOuaU75bzbbUjY7SSIm4YSsRKaeDzZ23MGRB8TiCjVFhM2V4Ecsow57UHUQrRDJCBZ7EyC3qmZwREg0RkRzW0WXRp2HYgxD4srfp+9h2XakngsMbLrV4rc5MBlId1702/i1sqwpbN2pgn4y1XWE9ouytiL1Yzn/+WdAaMjVU6MBESdeWR50BXaelndQAvfnFHDArDgwxKia9Bn6x6BIsf6dMmuFB8Ek/PITbfm3g224bz/wzctf1M4LP0N2vh97TvbgK7puv80kw7zzULMEORwEwqQ2BL08pE5+eAxdkblwQ+V3rJe12f4aL7yTzLab7b/57DfIRYi6OCXCSM5ekybGwz4WufellwqqgG2CGOXUvnzGYWk3KoNfA2RD753SaFTpjyJZESovoIEXco4gdHWQnSx+sY8lbzYt9vMbPL6140O/PraHTdfrDTmugfyyNncqZjShbJm9JGkXFEnvS+DTNgyntJmbPE5/t6sL3VdOsvT7/D3kuebCf/Vv29Brk7+kjhPn0wawJ1HJUfptBRBkStCY0j7PCRprm+1Ur/OVRZ4Upnej1TmiFbn8xL6r/7yrQsRfgiarK7xkBmZeh8HqrdjmkMicuhinCeNtnBBAra16xELna2UCpgEOZwz7cCaTcxYdnuEA8wOJwIBYvuNc8jkMZj/Pd3ZAjrJDV7RbHsq20UWRe/wY=</diagram><diagram id="tqtPxRGmtKnDjlXkXx3w" name="Direct Attack">1ZdRd5owFMc/jY/ugFGsjy1Vu03Xnnq6rnvZiXCBjMB1IQj46Rc0FBnOdmdunj6Z+89NSH73Jjd2iB3lU0FXwRxd4J2e4eYdct3p9UxijdRPqRQ75aLf3wm+YK52qoUF24AWDa2mzIWk4SgRuWSrpuhgHIMjGxoVArOmm4e8+dUV9aElLBzK2+ojc2WgdzEwav0GmB9UXzYN3RPRylkLSUBdzPYkMu4QWyDKXSvKbeAlvIrLbtzkN73PCxMQy9cMYBZbX158ngWTzSaX38YPLnns6lnWlKd6w1cgEhAhCCUvMOV68bKoiGQBk7BYUae0MxX1DrkKZMSVZaqmxzi3kaPYehMw3QEMlZ5IgSHs9YysIaGW6mlvpFoVCAn5nqQ3NgWMQIpCuejevmZcNM2sjphZhSHYi5alNaqTxH+euOaoGhrlYaw3kU1n3afxZPNgpoNwnoRD+wDWhVOS6hnvBcYlWUdt11Hp+Zd4PQ8sxzmE1x2OlioXT4LXtM7Htxvf3DPh5Le3E3cw/Cg4/QEH+H7C7pI64ZaoMUMnbIFNMhZxGsNpkJDey0isA0ieOZ2cSa/F5A6EhyKiK1oOvqcsXmLWnbA1KHNOfeYwGp8jAY/G9NUheEUE/mtSkhZKcFUt0SYKGaCPMeXjWr0SmMYulLOWpGqfGeJKA/8OUha6MNJUYjMciqkovuwbT+Vk7waVeZ3ryXdWoa0/C0qCqXDgiJ8u6pIKH47Np5O0BHM0xAI4lWWiNur5qSPWf+HILMKUc3VLL6lU1gfcVsW3e1zOd17cWNijr5f3U0NGfY/cwbq4PnCJ32G2fXegV+ZSUF5T05QKV11TyZsolOSXh4g5OjfkdlW45BLUKWVJmdNz4GkC0K6Wb4Fub/jv6Cqzfppv+/b+4JDxTw==</diagram><diagram id="FRVV5idRbIKV1SfBTnvN" name="Double Strike">7VhRb5swEP41PHYyOCHJ4wpdNlWVqkXr2kcXDrBiMDKmhP36GTAJxGnTNp1aVUNR4D5ffOf7vjMQC3vpZilInlzxEJjloHBjYd9yHNudYXVqkLpD5vNZB8SChtppB6zoH9Ag0mhJQyhGjpJzJmk+BgOeZRDIEUaE4NXYLeJsHDUnMRjAKiDMRH/TUCZ6FVO0w78DjZM+so30SEp6Zw0UCQl5NYDwheW4loM3xMLnVoONP9gTnMujbr1zuvGANcXv69rF/fb6CbZrF5DJN5rz131YZ4j+xIuifkjm+PYmujlzukAPhJW67D4v7xmcFVLQNaihVZnnXEhdSVn39BQVTRnJoM2inQOEhM2j+dvPKfz+EpbAU5CiVraeedKzrFU9m3ZmtZOI7WqXZCiPXgxEyzLeTv2isipfXdm3JQIbRFzzCoSCeKS+liURISVZYfBQJVTCKidBY1dqK1DZJDJV+fm2uowoYx5nXLTeOIrADQKFK375GgYj4Wxxr2r7TDYfF9PpFDtjhifIZNg5wLD7sQmePN1pwmT23TrsWPmdxaEGW3zs+k+N+l+SIKEKuuTd2Rck5tmpDYYIRk3CEc/kAEftcajxzv0ZOrHxJv8b7/HiuAbxyzJbE0W0urcVCc3VxY91KchZwEhRtEIAEma8bFZ4mhoQmiKITDVE7XFIDQjZ/rn3AdVg259DDnNDDl+ZBBEDLRTb6ApSLuqYZKdS7xKEDlOMVb973hOieHfq7emY+0+yE8wM6s17bkLy5pLRbD2mV/AyC6GZvtmrFQ2ivh0ad43xZdqb/mY46Nfa6gJCaLz67N3G1bsWUZo8+rSlkuelCOAfamJIev/wLYARSR/GizjE+kvi7qJfc9r0324n2tuKenn2Ebsa6F+9QGpH4m4fafq48724HUevjauFvi3127dH63vkVbbPYvcnAr74Cw==</diagram><diagram id="U2io6W6b9xUoT7eE6ZtM" name="OTK">3ZZdT4MwFIZ/TePVkkFZt926TxO9mCSaeFfhAHWFktIN8NdbtrKBaObHEs0SEnoe3pzT9j1QEJ7ExULSNLoTPnBk9/0C4SmybQuTsb5VpNyTkePsQSiZb0RH4LJXMLBv6Ib5kLWESgiuWNqGnkgS8FSLUSlF3pYFgrerpjSEDnA9yrv0kfkqMqsY9I98CSyM6spW3zyJaS02IIuoL/IGwjNkE2TjgiJ8jSrWvvBECqFOympxXEyAV5tf7+u+7vznCQ5rl5CoM+UkL73r9SoIbrKEbG0Cq4fkqWcKbSnfmG2/pyyENTM7p8rajjxiCtyUelWc65bT5SMVcx1ZehgwzieCC7lTY7D8AQw1z5QUa2g8GZMhpmQ3911lkAqKT1dtfcWu9wtfgIhByVLHJrNjOqFsh/mxr6y6WaJGTxHDqGnl8JD4W1ZorXHjvObZHfOWVKYMrjJN56BfA5B6NN1kqhpckqEWuUhHccfR22ruCUtCjV0lZHxZPtqji/TR6fg4pXKtyVJo237nYBAA8byPHPSH42d9CP7pp/VwCv87B3faE+e6ydf4o8KzNw==</diagram><diagram id="TmC9iGX8f41o32-x5Vda" name="Equip Spell">3Zpde6o4EIB/jZfuw4eCXqrtsaet5+nWPcezlykMkm0kbgii++s3kaBiqLVqResNZEgCeWeYmQzW7N5k3mdoGg6oD6RmGf68Zt/ULMu0nbY4SMkik7QajUwwZthXndaCIf4PlNBQ0gT7EBc6ckoJx9Oi0KNRBB4vyBBjNC12Cygp3nWKxqAJhh4iunSEfR6qVTSNtfwO8DjM72wa6soE5Z2VIA6RT9MNkX1bs3uMUp6dTeY9IBJeziUb9+2Nq6sHYxDxfQY8/NnuDO791p179xi4D13fCey6UsYMkUQt+BviECRyYMefiakTBur5+SKHkoaYw3CKPNlOheJrdjfkEyJapjgNMCE9Sihb9raDABzPE/KYM/oKG1d8t/0ieNldfS1qeTNgHOYbIrW2PtAJcLYQXdRVO+esDM3OFZGu1WbmfcINlTlKhpSljFdTr2GKE8XzA2wdje0TTYEJ0V/CgsVhAF6IxPGGoTGNjqTsIMMIAimnES/Ql78y+rZrGL3eaeg33SJ9q101/ZZG/xmEMQvMxu2/CZ6K43C6nGcLe5ziCUERnAZMo8ilUWaVTgmX1cCTg2lqYPqYBJT50rWG4mU3HmEMkX+kPfoIWkHpW+94LXgJSvHu1OTezK1t5hWboqsRf4iWtxWvPpLP3WcwDaVn+CLEzcp9r6kzH6bCxmN5swx8eqzHvSDeTuW8TY33dyZjmtElyHuNJ1g8l2U8UA48TqoA/2HPbTW33IhVOWSrJKYRQLF02s8gaCAcSeMeodmxSVs1jJvVOw49Iz5nurDa97wdu6xWCQ+z/WlANB4/I2FIMlsYSbsbcnR0rgCm3wS3zNjajmsjZ39PulLf1SYLtsY73zXQQKYKCWI+RlF8JPKDNmUnQm5qSXHVL70OfSDrApah2F9InnC0dZtm5aj17cdI0hSiX4B193o9qLet+gJYtzWc4I9hqJqU8ZCOaYTI7VraZTSJfJDTSh+w7vNI6VRB/wc4X6hSHUo4LapEcGWL32r8svG3bPzRzJs3882LNwvVejN6xjRhHuxap6q0cMTGsI9SJYWdKmVAEMezYg3w9PrRK0R9QOyFARwbUc+Tvm1bvNGs2OJXJvPFLT6Hem0Wnz/35rY8iYgqhojE0qPsw9vyTzDkVtWu29bD5A/6QmSY7LCJrGLUZTKIiNRaJYWMjzN2trI+94yQn7oLck9Nu/sY/PJnnfv5z+RHydamkGpnxdC3E+5PLRQ7JSUdp1FCZ2WrJ8ejVxs6y0EDGsV8iemJUQ4exyUfL3bC2amNg7/4lO2V22XErM8i9s7e7T2DOsMObqeir2HPXLoAvWbzjKNxjl1s5SLgOJ5cL3BzuxZZNXE9POkeIERTeUpw9FrkWky4YI757zyTEucbuZNorVMn2cgzp9NlXLv0s5mG7XrfN7OwXfb5bhK2qc68Erp3Yqame6JZDTj/MFs0nPr2Z8VsjWrQ2ii0ebYtUJsog6BNtLSu1RIPNzh9q/Q9ghnmKEuK+oym8gvD+aPQxQWhki9fIQYidpTGaOkVL8QJOqcnfV4fqP/D4Cqi/Ye5X1zwaX/p4OPsGXzcPYNPq7rgU9eihnlg+Km/N9HB4Uc01//By7qv/8lo3/4P</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-28T17:41:51.348Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="oj3G9O6Sc45ng3KH37VX" version="20.2.2" type="github" pages="4">
+  <diagram id="OoVfKozZZP19OXvTra97" name="Monster">
+    <mxGraphModel dx="1369" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rQL7H8hPHh0mbTXPi9bD-1" value="Normal Monster Support" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="20" y="20" width="290" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="rQL7H8hPHh0mbTXPi9bD-2" value="Unexpected Dai" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="rQL7H8hPHh0mbTXPi9bD-1" vertex="1">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQL7H8hPHh0mbTXPi9bD-6" value="Link Spider" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="rQL7H8hPHh0mbTXPi9bD-1" vertex="1">
+          <mxGeometry x="150" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQL7H8hPHh0mbTXPi9bD-3" value="Heart of the Underdog" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="rQL7H8hPHh0mbTXPi9bD-1" vertex="1">
+          <mxGeometry x="150" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="waRzVCXTt-gT5jvSgv9V-1" value="Dragon Horn Hunter" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="rQL7H8hPHh0mbTXPi9bD-1" vertex="1">
+          <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R7ZuBB_lxKhwf4n1fkfq-1" value="Lancephorhynchus" style="whiteSpace=wrap;html=1;" parent="rQL7H8hPHh0mbTXPi9bD-1" vertex="1">
+          <mxGeometry x="20" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQL7H8hPHh0mbTXPi9bD-4" value="Generic Monster Support" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="20" y="300" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rQL7H8hPHh0mbTXPi9bD-5" value="Power of the Guardians" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="rQL7H8hPHh0mbTXPi9bD-4" vertex="1">
+          <mxGeometry x="45" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PYZ7pGFFv4HDBDFH97G1-1" value="Normal Monster Unchained summon" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="330" y="20" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rQL7H8hPHh0mbTXPi9bD-8" value="Link Spider" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="PYZ7pGFFv4HDBDFH97G1-1" vertex="1">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hV6YfNnXjgyquWolyUV3-1" value="Unchained Abomination" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="PYZ7pGFFv4HDBDFH97G1-1" vertex="1">
+          <mxGeometry x="160" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hV6YfNnXjgyquWolyUV3-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="PYZ7pGFFv4HDBDFH97G1-1" source="rQL7H8hPHh0mbTXPi9bD-8" target="hV6YfNnXjgyquWolyUV3-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="tqtPxRGmtKnDjlXkXx3w" name="Direct Attack">
+    <mxGraphModel dx="1369" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="i6ivA8VLhFzzxt_EUd3W-1" value="Berserker Soul" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HmCaL-YEFzU1u5kMsk7C-1" value="Scrap Iron Scarecrow" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="160" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-nHRircxOOFd57Krlaqe-1" value="No-backrow Lock" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="320" y="40" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-nHRircxOOFd57Krlaqe-2" value="Performapal Rainbow-Five Magician" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="-nHRircxOOFd57Krlaqe-1" vertex="1">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-nHRircxOOFd57Krlaqe-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="-nHRircxOOFd57Krlaqe-1" source="-nHRircxOOFd57Krlaqe-4" target="-nHRircxOOFd57Krlaqe-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-nHRircxOOFd57Krlaqe-4" value="Performapal Skullcrobat Joker" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="-nHRircxOOFd57Krlaqe-1" vertex="1">
+          <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dnrC9ZARG0tm4f3PevyD-1" value="Power of the Guardians" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="340" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dnrC9ZARG0tm4f3PevyD-2" value="Altergeist Meluseek" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="340" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FRVV5idRbIKV1SfBTnvN" name="Double Strike">
+    <mxGraphModel dx="1673" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ubdyn0iR39syvh83XVfV-2" value="Double-strike Support" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="400" y="75" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ubdyn0iR39syvh83XVfV-3" value="Power of Guardians" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="Ubdyn0iR39syvh83XVfV-2">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ubdyn0iR39syvh83XVfV-4" value="Double-strikers" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="290" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Ubdyn0iR39syvh83XVfV-5" value="Kachi Kochi Dragon" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="Ubdyn0iR39syvh83XVfV-4">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ubdyn0iR39syvh83XVfV-6" value="Gunkan Suship Ikura-class Dreadnought" style="whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="Ubdyn0iR39syvh83XVfV-4">
+          <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ubdyn0iR39syvh83XVfV-8" value="Altergeist Memorygant" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="Ubdyn0iR39syvh83XVfV-4">
+          <mxGeometry x="150" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ubdyn0iR39syvh83XVfV-7" value="" style="shape=link;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Ubdyn0iR39syvh83XVfV-2" source="Ubdyn0iR39syvh83XVfV-4">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="200" y="150" as="sourcePoint" />
+            <mxPoint x="190" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="U2io6W6b9xUoT7eE6ZtM" name="OTK">
+    <mxGraphModel dx="1369" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6j-BkQffIsn6v26eQVnZ-1" value="Raigeki" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6j-BkQffIsn6v26eQVnZ-2" value="Harpie&#39;s Feather Duster" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="160" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6j-BkQffIsn6v26eQVnZ-3" value="Lightning Storm" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="280" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6j-BkQffIsn6v26eQVnZ-4" value="Dark Hole" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="40" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
