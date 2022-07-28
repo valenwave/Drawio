@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T17:27:23.745Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="86_LKAxGgZeWt_82DogM" version="20.2.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-07-28T19:50:53.322Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="oHraewAlF1t8ftrXzicO" version="20.2.2" type="github" pages="10">
   <diagram id="GCSwSArWJtqAE6xZ00EX" name="Adventure Token">
     <mxGraphModel dx="1369" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -96,7 +96,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yCN277_x8tLkqwxnRDHB" name="Altergeist">
-    <mxGraphModel dx="944" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1141" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -232,29 +232,47 @@
         <mxCell id="cwAPXJcV9ijmGMXJqpjq-11" value="Altergeist Kidolga" style="whiteSpace=wrap;html=1;" parent="cwAPXJcV9ijmGMXJqpjq-22" vertex="1">
           <mxGeometry x="125.75" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eS31H5UeVmtCURLwBYkp-1" value="Altergeist Fifinellag" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eS31H5UeVmtCURLwBYkp-1" value="Altergeist Fifinellag" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eS31H5UeVmtCURLwBYkp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eS31H5UeVmtCURLwBYkp-2" target="eS31H5UeVmtCURLwBYkp-1">
+        <mxCell id="eS31H5UeVmtCURLwBYkp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eS31H5UeVmtCURLwBYkp-2" target="eS31H5UeVmtCURLwBYkp-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eS31H5UeVmtCURLwBYkp-2" value="Tuner" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eS31H5UeVmtCURLwBYkp-2" value="Tuner" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="300" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eS31H5UeVmtCURLwBYkp-4" value="Increase Link count" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="eS31H5UeVmtCURLwBYkp-4" value="Increase Link count" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="40" y="400" width="280" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="eS31H5UeVmtCURLwBYkp-5" value="Altergeist Kunquery" style="whiteSpace=wrap;html=1;" vertex="1" parent="eS31H5UeVmtCURLwBYkp-4">
+        <mxCell id="eS31H5UeVmtCURLwBYkp-5" value="Altergeist Kunquery" style="whiteSpace=wrap;html=1;" parent="eS31H5UeVmtCURLwBYkp-4" vertex="1">
           <mxGeometry x="20" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eS31H5UeVmtCURLwBYkp-7" value="Altergeist Fijialert" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="eS31H5UeVmtCURLwBYkp-4">
+        <mxCell id="eS31H5UeVmtCURLwBYkp-7" value="Altergeist Fijialert" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="eS31H5UeVmtCURLwBYkp-4" vertex="1">
           <mxGeometry x="20" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eS31H5UeVmtCURLwBYkp-8" value="Altergeist Pookuery" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="eS31H5UeVmtCURLwBYkp-4">
+        <mxCell id="eS31H5UeVmtCURLwBYkp-8" value="Altergeist Pookuery" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="eS31H5UeVmtCURLwBYkp-4" vertex="1">
           <mxGeometry x="140" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eS31H5UeVmtCURLwBYkp-9" value="Altergeist Multifaker" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="eS31H5UeVmtCURLwBYkp-4">
+        <mxCell id="eS31H5UeVmtCURLwBYkp-9" value="Altergeist Multifaker" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="eS31H5UeVmtCURLwBYkp-4" vertex="1">
           <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A6w6nAvaRPjjjVhKDPIQ-1" value="Scrap-Iron Scarecrow" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A6w6nAvaRPjjjVhKDPIQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A6w6nAvaRPjjjVhKDPIQ-2" target="A6w6nAvaRPjjjVhKDPIQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A6w6nAvaRPjjjVhKDPIQ-2" value="Altergeist Multifaker" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A6w6nAvaRPjjjVhKDPIQ-3" value="" style="shape=link;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A6w6nAvaRPjjjVhKDPIQ-1" target="A6w6nAvaRPjjjVhKDPIQ-2">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="300" y="1020" as="sourcePoint" />
+            <mxPoint x="400" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A6w6nAvaRPjjjVhKDPIQ-4" value="Altergiest Meluseek" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
