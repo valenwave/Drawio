@@ -1,26 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2022-07-27T00:39:11.902Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="QzsmZQ0YGqitdWU34enC" version="20.2.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-07-28T01:23:12.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="onWsYZJEPHGAzsPvwYHl" version="20.2.1" type="github" pages="8">
   <diagram id="tqtPxRGmtKnDjlXkXx3w" name="Direct Attack">
-    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="394" dy="319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="i6ivA8VLhFzzxt_EUd3W-1" value="Berserker Soul" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="i6ivA8VLhFzzxt_EUd3W-1" value="Berserker Soul" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HmCaL-YEFzU1u5kMsk7C-1" value="Scrap Iron Scarecrow" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="HmCaL-YEFzU1u5kMsk7C-1" value="Scrap Iron Scarecrow" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="160" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-nHRircxOOFd57Krlaqe-1" value="No-backrow Lock" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="-nHRircxOOFd57Krlaqe-1" value="No-backrow Lock" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="320" y="40" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="-nHRircxOOFd57Krlaqe-2" value="Performapal Rainbow-Five Magician" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="-nHRircxOOFd57Krlaqe-1">
+        <mxCell id="-nHRircxOOFd57Krlaqe-2" value="Performapal Rainbow-Five Magician" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="-nHRircxOOFd57Krlaqe-1" vertex="1">
           <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-nHRircxOOFd57Krlaqe-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-nHRircxOOFd57Krlaqe-1" source="-nHRircxOOFd57Krlaqe-4" target="-nHRircxOOFd57Krlaqe-2">
+        <mxCell id="-nHRircxOOFd57Krlaqe-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="-nHRircxOOFd57Krlaqe-1" source="-nHRircxOOFd57Krlaqe-4" target="-nHRircxOOFd57Krlaqe-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-nHRircxOOFd57Krlaqe-4" value="Performapal Skullcrobat Joker" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="-nHRircxOOFd57Krlaqe-1">
+        <mxCell id="-nHRircxOOFd57Krlaqe-4" value="Performapal Skullcrobat Joker" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="-nHRircxOOFd57Krlaqe-1" vertex="1">
           <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dnrC9ZARG0tm4f3PevyD-1" value="Power of the Guardians" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="340" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dnrC9ZARG0tm4f3PevyD-2" value="Altergeist Meluseek" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="340" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -94,7 +100,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TmC9iGX8f41o32-x5Vda" name="Equip Spell">
-    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="974" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -247,7 +253,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QnMWtF5KrqK0FYUh_TBK" name="Stall">
-    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="828" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -289,6 +295,9 @@
         </mxCell>
         <mxCell id="rAXfOTA7ZakSZnf3as3c-28" value="Performapal Skullcrobat Joker" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="DOzGVIViS020-7u8Uz_g-1" vertex="1">
           <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dWCkHnci0wjsMXQ-FrML-1" value="Power of the Guardians" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
