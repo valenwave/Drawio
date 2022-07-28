@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T01:46:31.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="6Z7WNkd8epyfhxzC2xwr" version="20.2.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-07-28T17:30:16.745Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="X-whAwavZkcgAniSGf3M" version="20.2.2" type="github" pages="10">
   <diagram id="tqtPxRGmtKnDjlXkXx3w" name="Direct Attack">
-    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1369" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -270,6 +270,26 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="U2io6W6b9xUoT7eE6ZtM" name="OTK">
+    <mxGraphModel dx="1369" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6j-BkQffIsn6v26eQVnZ-1" value="Raigeki" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6j-BkQffIsn6v26eQVnZ-2" value="Harpie&#39;s Feather Duster" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6j-BkQffIsn6v26eQVnZ-3" value="Lightning Storm" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6j-BkQffIsn6v26eQVnZ-4" value="Dark Hole" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="mfH2ATyb_PeCsaHpSg-w" name="Self Burn">
     <mxGraphModel dx="1369" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -285,7 +305,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QnMWtF5KrqK0FYUh_TBK" name="Stall">
-    <mxGraphModel dx="828" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1369" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -328,7 +348,7 @@
         <mxCell id="rAXfOTA7ZakSZnf3as3c-28" value="Performapal Skullcrobat Joker" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="DOzGVIViS020-7u8Uz_g-1" vertex="1">
           <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dWCkHnci0wjsMXQ-FrML-1" value="Power of the Guardians" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="dWCkHnci0wjsMXQ-FrML-1" value="Power of the Guardians" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="240" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
@@ -366,7 +386,7 @@
           <mxGeometry x="71.5" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QJDfiZRoA8MB2LWT1q32-4" value="Lord of Prisons" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="250" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QJDfiZRoA8MB2LWT1q32-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QJDfiZRoA8MB2LWT1q32-6" target="QJDfiZRoA8MB2LWT1q32-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -382,6 +402,12 @@
         </mxCell>
         <mxCell id="al7HE_oR9A0Hs1WTS6SA-1" value="Heavy Storm Duster" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="211.5" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fLGYMQqxg9ot6y7gQTgD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fLGYMQqxg9ot6y7gQTgD-1" target="QJDfiZRoA8MB2LWT1q32-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fLGYMQqxg9ot6y7gQTgD-1" value="Scrap Iron Scarecrow" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="180" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
