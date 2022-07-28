@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T01:59:16.958Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="P9gZ60lyD-6_98uHenc2" version="20.2.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-28T17:27:30.088Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="KgSy7Qaekr1JZcJ2ghQT" version="20.2.2" type="github" pages="3">
   <diagram id="2aMLlW2ePKMbcehhqOU3" name="Synchro 8">
-    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1369" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,21 +64,33 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ut46HScgp1Se_AjRCASP" name="Link">
-    <mxGraphModel dx="571" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1611" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="N2yEgNn4llbfly753ONx-1" value="Crackdown" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="N2yEgNn4llbfly753ONx-2" value="Unchained Abomination" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
           <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b69iX-fDj7KJJ22qJBgB-1" value="Mekk-Knight Crusadia Avramax" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+        <mxCell id="b69iX-fDj7KJJ22qJBgB-1" value="Mekk-Knight Crusadia Avramax" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
           <mxGeometry x="180" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b69iX-fDj7KJJ22qJBgB-2" value="Borrelsword Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+        <mxCell id="b69iX-fDj7KJJ22qJBgB-2" value="Borrelsword Dragon" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
           <mxGeometry x="40" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qd1dVJn911OQjeJzSz0e-1" value="Increase Link count" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="N2yEgNn4llbfly753ONx-1" value="Crackdown" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="qd1dVJn911OQjeJzSz0e-1" vertex="1">
+          <mxGeometry x="20" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qd1dVJn911OQjeJzSz0e-2" value="Crystron Halqifibrax" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qd1dVJn911OQjeJzSz0e-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qd1dVJn911OQjeJzSz0e-3" target="qd1dVJn911OQjeJzSz0e-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qd1dVJn911OQjeJzSz0e-3" value="Tuner" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="270" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
