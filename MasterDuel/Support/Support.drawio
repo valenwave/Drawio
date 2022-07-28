@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T17:37:07.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="137lC20OhLNnYU1YRp5M" version="20.2.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-07-28T17:37:51.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Vr-kqUWMSrG7JflyyjyT" version="20.2.2" type="github" pages="4">
   <diagram id="k3XtddSRICdn5ckGxZP9" name="Graveyard">
     <mxGraphModel dx="1369" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -137,13 +137,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QJDfiZRoA8MB2LWT1q32-1" value="Junk Collector" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="71.5" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QJDfiZRoA8MB2LWT1q32-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QJDfiZRoA8MB2LWT1q32-3" target="QJDfiZRoA8MB2LWT1q32-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QJDfiZRoA8MB2LWT1q32-3" value="Eldlich the Golden Lord" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="71.5" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QJDfiZRoA8MB2LWT1q32-4" value="Lord of Prisons" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
@@ -152,21 +152,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QJDfiZRoA8MB2LWT1q32-6" value="Foolish Burial" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="71.5" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QJDfiZRoA8MB2LWT1q32-7" value="Jar of Greed" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="390" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QJDfiZRoA8MB2LWT1q32-8" value="Torrential Tribute" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="210" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="178.5" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="al7HE_oR9A0Hs1WTS6SA-1" value="Heavy Storm Duster" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="211.5" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fLGYMQqxg9ot6y7gQTgD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fLGYMQqxg9ot6y7gQTgD-1" target="QJDfiZRoA8MB2LWT1q32-4">
+        <mxCell id="fLGYMQqxg9ot6y7gQTgD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fLGYMQqxg9ot6y7gQTgD-1" target="QJDfiZRoA8MB2LWT1q32-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fLGYMQqxg9ot6y7gQTgD-1" value="Scrap Iron Scarecrow" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="fLGYMQqxg9ot6y7gQTgD-1" value="Scrap Iron Scarecrow" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="180" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
